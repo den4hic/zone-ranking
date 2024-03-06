@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+    <title-info>
+        <genre>antique</genre>
+        <author><first-name>Agatha</first-name><last-name>Christie</last-name></author>
+        <book-title>The Murder at the Vicarage</book-title>
+        <coverpage><image l:href="#img_0"/></coverpage>
+        <lang>en</lang>
+        <keywords>detective</keywords>
+        <annotation><p>Colonel Protheroe was not a good man. He had lots of enemies. So when he was found shot at the vicarage, many people became murder suspects. It could be his daughter Lettice who wanted to get freedom from the strict father and inherit his fortune. It could be his wife Anne Protheroe who did not love him and had an affair with somebody else. It could be her lover Lawrence Redding who did not want to share Anne with her husband. The maid of the vicar Mary was also under suspicion. Her fiance was sent to prison by the old colonel. Or maybe it was the vicar himself, as he did not even try to hide his dislike for the murdered man. The list of suspects goes on. Only Miss Marple and her understanding of human nature can help to solve this complicated crime.</p></annotation>
+    </title-info>
+    <document-info>
+        <author><first-name>Agatha</first-name><last-name>Christie</last-name></author>
+        <program-used>calibre 4.5.0</program-used>
+        <date>17.5.2020</date>
+        <id>75ab27c0-f625-4e2c-8507-36a09b63b8ce</id>
+        <version>1.0</version>
+    </document-info>
+    <publish-info>
+        <publisher>Collins</publisher>
+    </publish-info>
+</description>
+<body>
+<section>
+<p>CHAPTER ONE</p>
+<p>It is difficult to know where to begin this story, but I have chosen a particular Wednesday at the vicarage. This is because the conversation around the table contained details, which affected later developments.</p>
+<p>I had just finished cutting some meat, which was very tough, and said, waving the knife in a way that was not at all appropriate for a vicar, that anyone who murdered Colonel Protheroe would be doing the world a favour.</p>
+<p>My young nephew, Dennis, said, 'We'll all remember that when the old man is found covered in blood. And Mary will describe how you waved the knife in a violent manner, won't you, Mary?'</p>
+<p>But Mary, who is a servant at the vicarage, just put a dish of unpleasant-looking cabbage on the table and left the room.</p>
+<p>'I am sorry that I am so useless at taking care of the house,' said my wife, whose name is Griselda. She is twenty years younger than I am, very pretty, and unable to take anything seriously.</p>
+<p>'My dear,' I said, 'if you would only try...'</p>
+<p>'But when I'm trying things just get worse. So it is better to leave things to Mary, who gives us awful things to eat. Now, tell me more about Colonel Protheroe.'</p>
+<p>'Unpleasant man,' said Dennis. 'It is not surprising that his first wife left him.'</p>
+<p>'Darling,' said Griselda, 'Why were you so angry with Colonel Protheroe? Was it anything to do with Mr Hawes?'</p>
+<p>Hawes is our new curate, whom Colonel Protheroe dislikes.</p>
+<p>'No, it was because of Mrs Price Ridley's pound note.'</p>
+<p>Mrs Price Ridley, a member of my church, had put a pound note in the collection bag. Later, when she was reading the amount collected on the church notice board, she saw that no pound note had been received. So she complained to Colonel Protheroe, who is a churchwarden.</p>
+<p>'He wants to look at all the Church accounts,' I said. 'He's coming here tomorrow evening so we can do it together. Does he think I have stolen Church money? But now I must get on with preparing my sermon. What are you doing this afternoon, Griselda?'</p>
+<p>'My duty as the wife of a vicar. Tea and talk at four-thirty.'</p>
+<p>'Who is coming?'</p>
+<p>'Mrs Price Ridley, Miss Wetherby, Miss Hartnell, and that terrible Miss Marple.'</p>
+<p>'I rather like Miss Marple,' I said. 'She has a sense of humour.'</p>
+<p>'And she always knows every single thing that happens in the village,' said Griselda. 'And explains them in the worst possible way.'</p>
+<p>'Well, don't expect me in for tea,' said Dennis. 'The Protheroes have invited me to play tennis today. What luck.' He quickly left the room and Griselda and I went into my study.</p>
+<p>'I wonder what we will talk about at tea,' said Griselda. 'Mrs Lestrange, I suppose. It's so mysterious, isn't it, the way she suddenly rented a house here, and hardly ever goes outside it? It's like a detective story. You know - "Who is she, the mysterious woman with the pale, beautiful face? Nobody knows."'</p>
+<p>'You read too many detective stories,' I said. 'Now, I must start my sermon.'</p>
+<p>'Do you know,' said Griselda, 'I could have married a politician, a lord, a rich businessman, but instead I chose you? Didn't that surprise you?'</p>
+<p>'Yes. I often wondered why.'</p>
+<p>Griselda laughed. 'It made me feel powerful. The other men all thought I was wonderful. But I am the sort of woman you most dislike, and yet you adore me, don't you?'</p>
+<p>'I do care about you, my dear.'</p>
+<p>'Oh! Len, you adore me,' Griselda said. 'But you don't deserve me. So I will have a love affair with the artist who is painting my picture. I will. Just think of the talk in the village.' She kissed me, and stepped through the open glass door into the garden.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWO</p>
+<p>I had been in a good mood for writing, but now I felt uncomfortable. Then, as I picked up my pen, Lettice Protheroe wandered in.</p>
+<p>Lettice is a pretty girl, tall and fair and delicate. She came through the glass door, pulled off her little yellow hat and said, 'Is Dennis about?'</p>
+<p>There is a path from Old Hall, where she lives, to our garden gate, so most people coming from there come to the study window instead of going along the road to the front door.</p>
+<p>'Dennis said he was going to play tennis at your place. He said you had asked him.'</p>
+<p>Lettice sat down on the sofa. 'I think I did. Only that was Friday. And today is Tuesday.'</p>
+<p>'It's Wednesday,' I said.</p>
+<p>'Oh. Then is Griselda here?'</p>
+<p>'She's in the studio with Lawrence Redding.'</p>
+<p>'There's been some trouble about him,' said Lettice. 'With father.'</p>
+<p>'What about?' I asked.</p>
+<p>'About him painting my picture. I was wearing my bathing dress. Father found out about it. It really is stupid - I go on the beach in my bathing dress, but now father won't allow Lawrence into the house. If I had some money, I would go away. If father died, then I would be all right.'</p>
+<p>'You must not say things like that, Lettice.'</p>
+<p>'Well, I'm not surprised my mother left him. Do you know, for years I believed she was dead. I wonder where she is. Father's new wife, Anne, hates me.' She got up. 'I must go. I said I would look at Dr Stone's barrow.' And she wandered out again, and across the garden.</p>
+<p>I thought about Dr Stone, who was a well-known archaeologist. He had come to stay at the Blue Boar Inn, while he examined an old burial ground on Colonel Protheroe's land. There had already been a disagreement between them.</p>
+<p>I wondered how Lettice would get on with Dr Stone's secretary. Miss Cram is a healthy young woman, with pink cheeks and a loud voice. She is the complete opposite of Lettice.</p>
+<p>I had one more interruption. My curate, Hawes, wanted to know if my interview with Protheroe had anything to do with him. I told him that it had not.</p>
+<p>Then I saw that the hands of the clock pointed to a quarter to five, which meant that it was really half-past four, so I got up and went to the sitting room. Four ladies, holding teacups, were gathered there with Griselda. I sat down between Miss Marple and Miss Wetherby.</p>
+<p>'We were just talking', said Griselda, 'about Dr Stone and Miss Cram.'</p>
+<p>'No nice girl would do it,' Miss Wetherby said.</p>
+<p>'Do what?' I asked.</p>
+<p>'Be a secretary to an unmarried man.'</p>
+<p>'Oh, my dear,' said Miss Marple. 'I think married ones are the worst.'</p>
+<p>'Don't you think,' said my wife, 'that Miss Cram might just like having an interesting job?'</p>
+<p>There was silence. Then Miss Marple patted Griselda's arm. 'You think the best of everyone.'</p>
+<p>'But do you really think she is attracted to that boring old man?' Griselda said.</p>
+<p>'He got angry with Colonel Protheroe the other day,' said Miss Marple. 'The Colonel accused him of knowing nothing about archaeology.'</p>
+<p>'How like Colonel Protheroe, and what nonsense,' said Mrs Price Ridley.</p>
+<p>'Very like Colonel Protheroe, but perhaps it was not nonsense,' said Miss Marple. 'We do sometimes trust people too easily.'</p>
+<p>'There has also been some talk about that young artist, Mr Redding, hasn't there?' said Miss Wetherby.</p>
+<p>'Did Lettice tell you about it?' Miss Marple asked me. 'I saw her go round to the study window.' Miss Marple lives next door and sees everything, usually when she is gardening.</p>
+<p>'She mentioned it, yes,' I admitted.</p>
+<p>'Oh!' cried Miss Wetherby. 'And I saw Dr Haydock coming out of Mrs Lestrange's cottage.'</p>
+<p>'Perhaps she's ill,' suggested Mrs Price Ridley.</p>
+<p>'No,' said Miss Hartnell. 'I saw her walking round her garden this afternoon.'</p>
+<p>'She and Dr Haydock may be old friends,' said Mrs Price Ridley.</p>
+<p>'Yes. I do know...' said Griselda.</p>
+<p>Everyone leaned forward.</p>
+<p>'... that when they were abroad, her husband was killed. And Dr Haydock rescued her.'</p>
+<p>The excitement rose, then Miss Marple said, 'Bad girl! If you make things up, people often believe them, and sometimes that leads to problems.'</p>
+<p>'I wonder if there is a romance between the artist Lawrence Redding and Lettice Protheroe,' said Miss Wetherby.</p>
+<p>'Not Lettice.' Miss Marple seemed thoughtful. 'But perhaps another person.'</p>
+<p>She was looking at Griselda as she spoke, and I suddenly felt very angry. 'Don't you think, Miss Marple,' I said, 'that problems may be caused by careless talk?'</p>
+<p>'Dear Vicar,' said Miss Marple, 'careless talk is often unkind, but it is also often true.'</p>
+<p>CHAPTER THREE</p>
+<p>'Awful old woman,' said Griselda, when the ladies had gone. 'Len, do you really think I am having a romance with Lawrence Redding?'</p>
+<p>'No, of course not. But I do wish you would be more careful in what you say.'</p>
+<p>'Lawrence never even tries to kiss to me,' she said. 'I can't understand why.'</p>
+<p>'He knows that you're a married woman. You don't want him to kiss you, do you?'</p>
+<p>'Not really,' said Griselda. 'If he's in love with Lettice Protheroe...'</p>
+<p>'Miss Marple didn't think he was.'</p>
+<p>'Miss Marple may be wrong.'</p>
+<p>'She never is.'</p>
+<p>Griselda paused, then said, 'You do believe me, don't you? When I say there's nothing between Lawrence and me.'</p>
+<p>'My dear,' I said. 'Of course.'</p>
+<p>'Dear Len.' My wife kissed me. 'You'd believe me whatever I said, wouldn't you?' And then she left the room.</p>
+<p>There were very few people that evening at the Wednesday church service, but afterwards, as I left, I saw a woman standing and looking up at one of our coloured-glass windows. It was Mrs Lestrange.</p>
+<p>'These windows are beautiful,' she said.</p>
+<p>We walked down the road, which went past her house. When we reached her gate, she said, 'Please, come in and tell me what you think of my new home.'</p>
+<p>It was arranged very simply, but perfectly, and I wondered what had made Mrs Lestrange come to St Mary Mead. It seemed odd for such a cultured woman to be living in a small country village.</p>
+<p>She was a very tall woman. Her hair was red gold and her make-up was perfect. She also had the most unusual eyes I have ever seen - for they were almost golden, too. While we talked about pictures, books and old churches, I felt that Mrs Lestrange really wanted to talk to me about something else. When I left to go home, I looked back and saw her watching me with an anxious expression.</p>
+<p>'If there is anything I can do...' I said.</p>
+<p>'It's very kind of you,' she replied. 'It's difficult. No, I don't think anyone can help me.'</p>
+<p>I returned to the vicarage by the garden gate. As I closed it, I suddenly decided to go down to our shed, which Lawrence Redding was using as a studio, to look at Griselda's picture while no one was there. I opened the door and then stopped. There was a man and a woman in the studio. The man's arms were round the woman and he was kissing her.</p>
+<p>The two people were Lawrence Redding, and Mrs Protheroe.</p>
+<p>I backed out and walked quickly to my study. The discovery was a great shock to me. Suddenly there was a knock on the glass door. I got up to open it and Mrs Protheroe came straight in. The quiet, controlled, woman had disappeared. Instead, I was looking at a quick-breathing, desperate creature. For the first time, I realized that Anne Protheroe was beautiful. She had brown hair, a pale face and very deep grey eyes. 'You - you saw just now?' she said.</p>
+<p>'Yes.'</p>
+<p>'We love each other...'</p>
+<p>I said nothing.</p>
+<p>'I suppose to you that is very wrong?'</p>
+<p>'You are a married woman...'</p>
+<p>'Oh! Do you think I haven't thought about that again and again? I'm not a bad woman. I just don't know what to do. I'm so unhappy. No woman could be happy with my husband. I wish he was dead. That's awful, but I do...'</p>
+<p>I said the things to her that it was my duty to say, remembering all the time how that morning I had said that a world without Colonel Protheroe would be a better place.</p>
+<p>When she left, she thanked me. But I felt worried because I now knew that Anne Protheroe was the kind of woman who would stop at nothing when her emotions took control. And she was madly in love with Lawrence Redding.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER FOUR</p>
+<p>I had completely forgotten that we had asked Lawrence Redding to dinner that night. When Griselda told me, I was shocked.</p>
+<p>'I've thought about what you said at lunch,' she told me, 'and I've found some good things to eat.'</p>
+<p>Sadly, our dinner only proved Griselda had been right when she'd said that the more she tried, the worse things went. The menu was expensive, but Mary seemed to have enjoyed undercooking and overcooking everything. However, Lawrence Redding was a very good guest. He has dark hair, his eyes are bright blue, and he can tell a good story. Griselda and Dennis kept telling jokes and Lawrence cheerfully joined in. However, I was not surprised when after dinner he suggested we went to my study.</p>
+<p>As soon as we were, alone his manner changed. 'This isn't the usual sort of love affair between Anne and me.'</p>
+<p>I told him that people had been saying that since the beginning of time, and a strange little smile touched his lips. 'Of course, if this were a book, the old man would die - and no one would be sorry.'</p>
+<p>I told him that was a cruel thing to say.</p>
+<p>'Oh! I didn't mean I was going to put a knife in his back, though I'd thank anyone who did. I'm surprised the first Mrs Protheroe didn't kill him. You don't know how Anne suffers. If I had enough money, I'd take her away now.'</p>
+<p>Then I spoke to him very seriously and asked him to leave St Mary Mead. If he stayed, people would start to talk about his relationship with Anne. Colonel Protheroe would hear about it - and things would be made much worse for her.</p>
+<p>'But everyone thinks my interest is in Lettice.'</p>
+<p>'Haven't you thought,' I asked, 'that Lettice might think that, too?'</p>
+<p>Lawrence seemed surprised. Lettice didn't care about him at all. At that moment, Griselda and Dennis came in and said I must not stop Lawrence from enjoying himself.</p>
+<p>'Oh, how I would like some excitement,' Griselda said. 'A murder - or just a robbery.'</p>
+<p>'I don't suppose there's anything worth stealing,' said Lawrence. 'Unless we stole Miss Hartnell's false teeth.'</p>
+<p>'They do make an awful noise,' said Griselda. 'But you're wrong about there being nothing worth stealing. There's some wonderful old silver at Old Hall, including a seventeenth century tazza. Worth thousands of pounds.'</p>
+<p>'The old man would probably shoot you,' said Dennis.</p>
+<p>'Oh, we'd get in first and tell him to put his hands up!' said Griselda. 'Has anyone got a gun?'</p>
+<p>'I've got a Mauser,' said Lawrence.</p>
+<p>'How exciting. Why do you have it?'</p>
+<p>'Souvenir of the war.'</p>
+<p>'Protheroe was showing the silver to Dr Stone today,' said Dennis. 'Stone was pretending to be very interested in it.'</p>
+<p>'Well,' Lawrence said, 'I must go. Thank you for a very pleasant evening.'</p>
+<p>On Thursday, I was leaving the church and going home for lunch when I met Colonel Protheroe.</p>
+<p>'That criminal Mr Archer,' he shouted. 'He came out of prison yesterday and is promising to punish me! Why? Because when I, as a magistrate, sent him to prison, I did not consider his wife and children. What nonsense. I am sure you agree with me.'</p>
+<p>'You forget,' I said. 'As a vicar I believe in forgiveness.'</p>
+<p>'Nonsense! What we need is strong Christianity. So, I'll come to the vicarage this evening, as we arranged, at a quarter past six.' And he walked away.</p>
+<p>I went home, had lunch, and went out again to visit some people. Griselda had gone to London by the cheap Thursday train. When I returned at about a quarter to four, Mary told me that Mr Redding was waiting for me in the study.</p>
+<p>He looked very pale. 'Vicar, you were right. I must leave the village.'</p>
+<p>'I think you have made the right decision,' I said.</p>
+<p>'Will you look after Anne?'</p>
+<p>'Of course. I will do everything I can to help her.'</p>
+<p>'Thank you.' He shook my hand. 'I will leave tomorrow.'</p>
+<p>When he had gone, I tried to write my sermon, but at half past five, the telephone rang. I was told that Mr Abbott of Low Farm was dying and asked to come at once.</p>
+<p>Low Farm was nearly two miles away and I could not possibly get back by six-fifteen. I rang up Old Hall, but I was informed that Colonel Protheroe had just gone out. So I told Mary that I would try to be back by six-thirty, and left.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER FIVE</p>
+<p>It was nearly seven when I returned. As I reached the vicarage gate, it opened and Lawrence Redding came out. He was shaking all over.</p>
+<p>'Hello,' I said. 'Sorry I was out. Come back. I've got to see Protheroe, but we won't be long.'</p>
+<p>'Protheroe.' He began to laugh. 'Oh, you'll see Protheroe all right! Oh, yes!'</p>
+<p>Worried, I stretched out a hand towards him.</p>
+<p>'No,' he shouted. 'I've got to get away. I've got to think.' And he began to run down the road.</p>
+<p>I went on into the vicarage. The front door is always open, but I rang the bell and Mary answered it.</p>
+<p>'Is Colonel Protheroe here?' I asked her.</p>
+<p>'He has been here since a quarter past six.'</p>
+<p>And Mr Redding has been here?'</p>
+<p>'He came a few minutes ago. I told him you would be back soon and that Colonel Protheroe was waiting in the study. He said he'd wait too. He's in there now.'</p>
+<p>'No, he isn't,' I said. 'I've just met him outside.'</p>
+<p>'Well, he can't have stayed more than two minutes.'</p>
+<p>I went down the passage and opened the study door. I took a few steps across the room and then stopped. I couldn't understand what was in front of me.</p>
+<p>Colonel Protheroe was lying across my desk. There was a pool of some dark liquid by his head, and it was dripping on to the floor. I went across to him. His skin was cold. The man was dead - shot through the head.</p>
+<p>I called Mary and I ordered her to run and fetch Dr Haydock. Haydock is a big man with an honest face. When he arrived, he bent over Colonel Protheroe and examined him, then he looked at me. 'He's dead - he's been dead for half an hour, I think.'</p>
+<p>'Suicide?'</p>
+<p>'No. Look at the position of the wound. And where's the weapon? I'd better call the police.' He picked up the telephone and gave the facts as simply as possible.</p>
+<p>'Is it murder?' I asked.</p>
+<p>'Looks like it.'</p>
+<p>'There's one rather strange thing,' I said. 'This afternoon I was asked to go to a dying man, but when I got there everyone was very surprised. The man was much better, and his wife said she had not telephoned me.'</p>
+<p>'So, someone wanted to get you out of the vicarage,' Haydock said. 'Where's your wife?'</p>
+<p>'Gone up to London for the day.'</p>
+<p>'And the servant?'</p>
+<p>'In the kitchen - at the other side of the house.'</p>
+<p>'Where she wouldn't hear anything that went on in the study. Who knew that Protheroe was coming here this evening?'</p>
+<p>'He mentioned it this morning in the village, very loudly as usual.'</p>
+<p>'So everyone knew!'</p>
+<p>There was the sound of feet in the passage outside, then the door opened.</p>
+<p>'Good evening, gentlemen, I'm Constable Hurst. The Inspector will be here soon. Until then I will ask the questions.' He took out his notebook.</p>
+<p>I repeated my story of discovering the body. Then he turned to the doctor. 'In your opinion, Dr Haydock, what was the cause of death?'</p>
+<p>'Shot through the head.'</p>
+<p>'And the weapon?'</p>
+<p>'I can't be sure until we get the bullet out. But it was probably a small pistol - say a Mauser 25.'</p>
+<p>I suddenly remembered the conversation last night, and Lawrence Redding telling us he had a Mauser.</p>
+<p>Hurst asked Dr Haydock, 'When, in your opinion, did the death happen?'</p>
+<p>'He has been dead just over half an hour, I think. Certainly not longer.'</p>
+<p>At this moment, Inspector Slack arrived. I've never met a man more different from his name. He was not just very energetic, but also extremely rude and bossy. Inspector Slack took his constable's notebook, read it, and strode over to the body. Then he looked at the things on the desk and examined the blood. 'Ah!' he said. 'When he fell forward, the clock was pushed over and it stopped. That will give us the time of the crime. Twenty- two minutes past six. What time did you say he died, doctor?'</p>
+<p>'I said about half an hour, but...'</p>
+<p>The Inspector looked at his watch. 'Five minutes past seven. I heard about it ten minutes ago, at five to seven. Discovery of the body was at about a quarter to seven. And if you examined it at ten minutes to... Why, that brings it to the same second almost!'</p>
+<p>I had been trying to speak. 'About the clock...'</p>
+<p>'Sir, I'll ask you any questions I want to know. Time is short. What I want is silence.'</p>
+<p>'Yes, but I'd like to tell you...'</p>
+<p>'Silence!' said the Inspector. So I gave him what he asked for.</p>
+<p>He was still looking at the desk. 'Hello - what's this?' He held up a piece of notepaper.</p>
+<p>At the top was written 6.20. 'Dear Clement, it began 'Sorry, I cannot wait any longer, but I must...' Here the writing ended.</p>
+<p>'It's obvious,' said Inspector Slack. 'He sits down to write this, an enemy comes in through the glass door and shoots him.'</p>
+<p>'I'd just like to tell...' I began.</p>
+<p>'Out of the way, sir. I want to see if there are footprints.' He moved towards the open window.</p>
+<p>'I think you ought to know...' I said.</p>
+<p>The Inspector turned. 'Now, gentlemen, will you please get out of here.'</p>
+<p>We allowed ourselves to be pushed out like children.</p>
+<p>'Well,' said Haydock. 'When that bossy little man wants me, you can send him over to the surgery. Goodbye.'</p>
+<p>Then Mary came to tell me that Griselda was back, so I went to the sitting room and told her everything. Finally, I said, 'The letter is headed 6.20. And the clock fell over and has stopped at 6.22.'</p>
+<p>'Yes,' said Griselda. 'But didn't you tell him that the study clock was always kept a quarter of an hour ahead?'</p>
+<p>'No,' I said. 'He wouldn't let me.'</p>
+<p>'But, Len,' Griselda said, 'that is extraordinary. Because when that clock said twenty past six it was really only five minutes past, and at five minutes past I don't suppose Colonel Protheroe had even arrived at the house.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER SIX</p>
+<p>We thought that Inspector Slack would come and ask me what it was I had wanted to tell him, so we were surprised when Mary told us that he had gone. Then Griselda said she would go to Old Hall. 'It will be so awful for Anne Protheroe.'</p>
+<p>Just after she left, Dennis returned from a tennis party. 'I've always wanted to be right in the middle of a murder,' he said, and went out into the garden to look for footprints. His cheerfulness rather upset me, but death means very little to a boy of sixteen.</p>
+<p>An hour later Griselda came back. She had seen Anne Protheroe just after the Inspector had told her the news.</p>
+<p>'How did she seem?' I asked.</p>
+<p>'She was very quiet...'</p>
+<p>'What about Lettice?'</p>
+<p>'She was out playing tennis somewhere. But Anne was really very quiet - very strange.'</p>
+<p>'The shock?' I suggested.</p>
+<p>'I suppose so. And yet, she didn't seem so much shocked as - frightened.'</p>
+<p>'Frightened?'</p>
+<p>'Yes. I wonder if she knows who killed him. She kept asking if there were any suspects.'</p>
+<p>And then Dennis came in full of excitement because of a footprint he had found in one of the flower beds. He was sure that it was very important.</p>
+<p>But it was Mary, not Dennis, who brought us the sensational news next morning. We had just sat down to breakfast when she appeared at the door. 'They've arrested Mr Redding!'</p>
+<p>'Arrested Lawrence?' cried Griselda. 'It must be some mistake.'</p>
+<p>'No mistake,' said Mary. 'Mr Redding went to the police station himself. Last night. He went in, threw down the pistol, and said, "I did it." Just like that.' Satisfied, she left the room.</p>
+<p>'It can't be true,' Griselda said. 'What reason could Lawrence have for killing Colonel Protheroe?'</p>
+<p>I could have answered that question, but I did not wish to involve Anne Protheroe. 'Remember, I met him just outside the gate. He looked like a mad man. There's the clock, too,' I said. 'Lawrence must have put it back to 6.20 to give himself an alibi. And Inspector Slack believed it.'</p>
+<p>'You're wrong. Lawrence knew about that clock being ahead. "Keeping the vicar up to time!" he used to say.'</p>
+<p>'He may have forgotten about it.'</p>
+<p>'No, if you were committing a murder, you'd be very careful about things like that.'</p>
+<p>'You don't know, my dear,' I said. 'You've never done one.' Before Griselda could reply, a shadow fell across the table, and a very gentle voice said, 'Please forgive me. But after the sad news...' It was Miss Marple. I opened the glass door and she stepped inside and sat down with us. She looked a little pink and a little excited.</p>
+<p>'Poor Colonel Protheroe. Not a very pleasant man, but it's still sad. And shot in the vicarage study? But you, dear Vicar, were not here at the time?' I explained where I had been.</p>
+<p>'Is Dennis not with you this morning?' said Miss Marple. 'Dennis', said Griselda, 'is very excited about a footprint he found, and has gone to tell the police about it.'</p>
+<p>'Dear, dear,' said Miss Marple. 'So Dennis thinks he knows who committed the crime. Well, I suppose we all think we know. And I expect everyone thinks it is somebody different. That is why it is so important to have proof. I am sure I know who did it. But I haven't one bit of proof. Inspector Slack said he was coming to see me this morning, but has just phoned to say it won't be necessary.'</p>
+<p>'I suppose, that is because of the arrest,' I said.</p>
+<p>'The arrest?' Miss Marple leaned forward. 'I didn't know there had been an arrest.'</p>
+<p>I said, 'Yes, Lawrence Redding.'</p>
+<p>'Lawrence Redding? Now I didn't think...'</p>
+<p>'I can't believe it, even now,' Griselda interrupted. 'Even though he has confessed.'</p>
+<p>'Confessed?' said Miss Marple. 'Oh, dear! I have been very mistaken...'</p>
+<p>'He gave himself up,' said Griselda.</p>
+<p>'Oh!' said Miss Marple. 'I am so glad - so very glad.'</p>
+<p>'It does show he is truly sorry, I suppose,' I said.</p>
+<p>'Sorry?' Miss Marple looked surprised. 'Oh, but Vicar, you don't think that he is guilty?'</p>
+<p>'He has confessed...'</p>
+<p>'Yes, but that just proves it. I mean that he had nothing to do with it.'</p>
+<p>'No,' I said. 'If you have not committed a murder, I cannot see the reason to pretend you have.'</p>
+<p>'Oh, of course, there's a reason!' said Miss Marple. 'There's always a reason. And young men are so hot-headed and so quick to believe the worst.'</p>
+<p>'If you had seen his face last night...' I began.</p>
+<p>'Tell me,' said Miss Marple. I did so. When I had finished she said, 'I know that I am very often rather stupid, but I really do not understand your point. It seems to me that if a young man had decided to take another man's life, he would not appear upset about it afterwards. It is difficult to imagine being in such a position, but I cannot believe I would be upset myself.'</p>
+<p>'But if there was an argument,' I argued, 'the shot may have been fired in sudden anger, and Lawrence might have been very upset afterwards about what he had done.'</p>
+<p>'But, Mr Clement, it does not seem to me that the facts fit your argument. Your maid said that Mr Redding was only in the house for two minutes. And the colonel was shot while he was writing a letter. The letter also seems very strange. I mean...' She looked round.</p>
+<p>Lettice Protheroe came in through the glass door. 'I hear they've arrested Lawrence.'</p>
+<p>'Yes,' said Griselda.</p>
+<p>'Have you seen my hat here - a little yellow one?' said Lettice. 'I think I left it in the study.'</p>
+<p>'If you did, it's there still,' said Griselda.</p>
+<p>'I'll go and see,' said Lettice.</p>
+<p>'I'm afraid you can't get it now,' I said. 'Inspector Slack has locked the room.'</p>
+<p>'Oh, what a bore!'</p>
+<p>'Surely, Lettice, a yellow hat won't be much good to you just now?'</p>
+<p>'You mean I should wear black? I won't bother. It's awfully old-fashioned.' A strange smile came to her lips. 'I think, I'll go home and tell Anne that Lawrence has been arrested.' She went out of the French window again.</p>
+<p>Miss Marple was smiling. 'That child is not half so dreamy as she pretends to be. She's got a very definite idea in her head and she's acting upon it.'</p>
+<p>There was a loud knock on the dining room door. 'Colonel Melchett's here,' Mary said. 'He wants to see the master.'</p>
+<p>I got up at once.</p>
+<p>CHAPTER SEVEN</p>
+<p>Colonel Melchett is the Chief Constable. He is small and has red hair. 'Poor old Protheroe,' he said. 'I didn't like him, of course. Nobody did. But I'm shocked at young Redding doing it. And I was surprised when I heard he had confessed.'</p>
+<p>'What happened exactly?'</p>
+<p>About ten o'clock last night, Redding comes in, throws down a pistol, and says to the police, "Here I am. I did it." Just like that.'</p>
+<p>'Did he describe what happened?' I asked</p>
+<p>'Not much. Said he came here to see you and found Protheroe. They argued and he shot him. Won't say what the argument was about. I've heard gossip - about Redding and the daughter. Was that the trouble?'</p>
+<p>'No,' I said. 'It was something very different, but I can't say more just now.'</p>
+<p>He nodded. 'Thank you. Well, I've got to see Dr Haydock. He was called out to a patient, but he should be back by now. Like to come along?'</p>
+<p>Haydock's house is next door to mine. The doctor had just come in and was eating a plate of eggs and bacon in the dining room. 'Sorry, I had to go out. Babies, not us, decide when they'll arrive. But I've got the bullet for you.' He pushed a little box along the table.</p>
+<p>Melchett examined it. 'Point two five?'</p>
+<p>Haydock nodded. 'Silly young fellow. Amazing that nobody heard the shot.'</p>
+<p>'Yes,' said Melchett.</p>
+<p>'The kitchen is on the other side of the house,' I said. 'And the servant was the only person at home.'</p>
+<p>'But it's strange,' said Melchett. 'I wonder why Miss Marple didn't hear it. The study window was open.'</p>
+<p>'Perhaps she did,' said Haydock.</p>
+<p>'No,' I said. 'She didn't say anything about it, and she would have done if she had heard it.'</p>
+<p>'What about a silencer? Nobody would hear anything then.'</p>
+<p>I noticed that Dr Haydock was looking very cheerful this morning. But he also looked as though he was trying to hide it.</p>
+<p>Melchett shook his head. 'Slack didn't find a silencer, and he asked Redding. At first Redding didn't seem to know what he was talking about, and then said he didn't use one. I can't believe he is a murderer.'</p>
+<p>'Well, I shall never forget his face when I met him outside my gate, or the way he said, "Oh, you'll see Protheroe all right!" That should have made me suspect what had just happened.' Haydock stared at me. 'What do you mean - what had just happened? When do you think Redding shot him?'</p>
+<p>'A few minutes before I got to the house.'</p>
+<p>The doctor shook his head. 'Impossible. He had been dead much longer than that.'</p>
+<p>'But, Haydock,' The colonel said, 'if Redding admits shooting him at a quarter to seven...'</p>
+<p>Haydock's face had gone suddenly grey. 'It's impossible. I'm a doctor, and I know. The blood had begun to congeal.'</p>
+<p>'But if Redding is lying...' Melchett stopped. 'We'd better go down to the police station and see him.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER EIGHT</p>
+<p>Inspector Slack was at the police station and soon we were sitting opposite Lawrence Redding.</p>
+<p>'Now,' Melchett said, 'You say you went to the vicarage at about a quarter to seven. You found Protheroe there, argued with him, shot him, and left.'</p>
+<p>'Yes. I killed Protheroe.'</p>
+<p>'Ah! Well...' Melchett replied. 'How did you manage to have a pistol with you?'</p>
+<p>'It was in my pocket.'</p>
+<p>'You took it to the vicarage?'</p>
+<p>'Yes.'</p>
+<p>'Why?'</p>
+<p>'I always take it.'</p>
+<p>'Why did you change the time of the clock?'</p>
+<p>'The clock?' Redding seemed confused.</p>
+<p>'Yes, the hands pointed to 6.22.'</p>
+<p>'Oh! That - yes. I changed it.'</p>
+<p>There was a noise outside. A constable brought in a note. 'For the vicar. It's very urgent.'</p>
+<p>I tore it open and read:</p>
+<p>Please - please - come to me. I don't know what to do. I want to tell someone. Please come now. And bring anyone you want with you.</p>
+<p>Anne Protheroe.</p>
+<p>I showed it to Melchett. As we all went out together, I looked over my shoulder and saw Lawrence Redding's face. His eyes were looking at the note in my hand and I have never seen such pain in any human being's face.</p>
+<p>As we walked over to Old Hall, I told Melchett and Haydock how I had seen Redding and Mrs Protheroe kissing in the studio. When we got there, a manservant opened the door.</p>
+<p>'Good morning,' said Melchett. 'Will you tell Mrs Protheroe we are here. Then we would like to ask you a few questions.'</p>
+<p>The servant hurried away and returned to say that she would see us soon.</p>
+<p>'Now,' said Melchett. 'Was your master here for lunch yesterday?'</p>
+<p>'Yes, Sir,'</p>
+<p>'What happened after lunch?'</p>
+<p>'Mrs Protheroe went upstairs for a rest and the Colonel went to his study. Miss Lettice went out to a tennis party. Colonel and Mrs Protheroe had tea at four-thirty. At five-thirty, they were driven to the village. Immediately after they had left, Mr Clement rang up and I told him that they had gone out.'</p>
+<p>'But Mr Redding did not come to the house yesterday?' said Melchett.</p>
+<p>'No, Sir.'</p>
+<p>'Did anyone else come?'</p>
+<p>'Not yesterday.'</p>
+<p>'And the day before?'</p>
+<p>'Mr Dennis Clement came in the afternoon. And Dr Stone was here. And a lady came in the evening.'</p>
+<p>'A lady?' Melchett said. 'Who was she?'</p>
+<p>It was a lady the servant had not seen before and she had asked for Colonel Protheroe, not Mrs Protheroe.</p>
+<p>'How long did the lady stay?'</p>
+<p>Half an hour, he thought. And, yes, he remembered her name now: Mrs Lestrange.</p>
+<p>We were very surprised by this. But at that moment a message came that Mrs Protheroe would see us.</p>
+<p>Anne was in bed. Her face was pale, but had a strange determined expression.</p>
+<p>'Thank you for coming so quickly,' she said. 'Once I had made the decision to tell you, I wanted to do it as soon as possible. So, Colonel Melchett, it was I who killed my husband.'</p>
+<p>Colonel Melchett said, 'My dear Mrs Protheroe...'</p>
+<p>'It's true! I hated him, and yesterday I shot him.'</p>
+<p>'Did you know, Mrs Protheroe that Lawrence Redding has already confessed to the crime?'</p>
+<p>Anne nodded. 'He's in love with me. It was very good of him - but very silly.'</p>
+<p>'He knew that it was you who killed your husband?'</p>
+<p>'Yes.'</p>
+<p>'How did he know?'</p>
+<p>She paused, 'I told him... I don't want to talk about it anymore.'</p>
+<p>'Where did you get the pistol, Mrs Protheroe?'</p>
+<p>'The pistol! Oh, it was my husband's. I got it out of the drawer beside his bed.'</p>
+<p>'And you took it with you to the vicarage?'</p>
+<p>'Yes. I knew he would be there...'</p>
+<p>'What time was this?'</p>
+<p>'It must have been after six - quarter past - something like that.'</p>
+<p>'You took the pistol meaning to shoot your husband?'</p>
+<p>'No - meaning to shoot myself. But I went to the study window. I looked in. I saw my husband - and I fired.'</p>
+<p>'And then?'</p>
+<p>'Then I went away.'</p>
+<p>'Did anybody see you entering or leaving the vicarage?'</p>
+<p>'Yes. Miss Marple. She was in her garden.' She closed her eyes. 'I've told you everything. Please go now.'</p>
+<p>'I'll stay with her,' Dr Haydock whispered to Melchett. 'While you make the necessary arrangements.'</p>
+<p>As Melchett and I left the bedroom, I saw a thin man come out of another room along the passage.</p>
+<p>'Are you Colonel Protheroe's personal servant?' I asked.</p>
+<p>'Yes, Sir.'</p>
+<p>'Do you know whether he kept a pistol anywhere?'</p>
+<p>'I have never seen one.'</p>
+<p>'Not in one of the drawers beside his bed?'</p>
+<p>The man shook his head. 'He didn't have a pistol. I would have seen it if he had.'</p>
+<p>I hurried down the stairs after Melchett. Mrs Protheroe had lied about the pistol.</p>
+<p>Why?</p>
+<empty-line/><empty-line/>
+<p>CHAPTER NINE</p>
+<p>After he had left a message at the police station, the Chief Constable said he was going to visit Miss Marple.</p>
+<p>'Please can you come with me, Vicar,' he said. 'I don't want to frighten her.'</p>
+<p>I smiled. Miss Marple is as strong as any Chief Constable. We rang the bell and were shown by a maid into the sitting room.</p>
+<p>When I had introduced Colonel Melchett to Miss Marple, he said, 'I want to talk to you about Colonel Protheroe's death. Your house is next door to the vicarage so perhaps you saw something that would help us.'</p>
+<p>'In fact I was in my garden from five o'clock onwards yesterday and from there, well, I can see everything that is happening next door.'</p>
+<p>'I believe that Mrs Protheroe passed by your garden yesterday evening?'</p>
+<p>'Yes. At just after a quarter past six. She said she was meeting her husband at the vicarage. She went in by the back gate.'</p>
+<p>'And she went inside the vicarage?' Melchett asked.</p>
+<p>'Yes. But I suppose Colonel Protheroe wasn't there yet, because she came back almost immediately, and walked down to the studio.'</p>
+<p>'I see. And you didn't hear a shot?'</p>
+<p>'I didn't hear a shot then,' said Miss Marple.</p>
+<p>'But you did hear one?'</p>
+<p>'Yes, I think there was a shot somewhere in the woods. Five or ten minutes afterwards. Oh, could it have been...?' She stopped, pale with excitement.</p>
+<p>'So, Mrs Protheroe went down to the studio?' said Colonel Melchett.</p>
+<p>'Yes. Then Mr Redding came to the vicarage gate, looked all round...'</p>
+<p>'And saw you, Miss Marple.'</p>
+<p>'No. Because I was bending down. He went down to the studio. Mrs Protheroe came to the door, and they both went inside.'</p>
+<p>'And they came out - when?' Colonel Melchett asked. 'About ten minutes later. And Dr Stone came down the path from Old Hall, so they all walked towards the village together. At the end of the road, I think they were joined by Miss Cram. It must have been Miss Cram because her skirt was so short.'</p>
+<p>'Well then,' said Colonel Melchett, 'did you also see Mrs Protheroe's and Mr Redding's expressions as they walked along the road?'</p>
+<p>'They were smiling and talking,' said Miss Marple. 'They seemed very happy.'</p>
+<p>'Strange,' said the Colonel.</p>
+<p>Then Miss Marple gave us both a shock as she said, 'Has Mrs Protheroe confessed to the crime now?'</p>
+<p>'Well!' said the Colonel. 'How did you guess that?'</p>
+<p>'Well, I thought she might,' said Miss Marple. 'I think Lettice thought so, too. She's really a very clever girl. So Anne Protheroe says she killed her husband. Well, I'm almost sure that isn't true. When does she say she shot him?'</p>
+<p>'At twenty minutes past six. Just after speaking to you.'</p>
+<p>'What did she shoot him with?'</p>
+<p>'A pistol.'</p>
+<p>'Where did she find it?'</p>
+<p>'She brought it with her.'</p>
+<p>'No,' said Miss Marple. 'She had no gun with her.'</p>
+<p>'It might have been in her handbag.'</p>
+<p>'She wasn't carrying a handbag.'</p>
+<p>'But it all fits together,' Melchett said. 'The time, the overturned clock pointing to 6.22...'</p>
+<p>'No,' I interrupted. And I told him about the clock.</p>
+<p>Melchett was annoyed. 'Why didn't you tell Slack this last night?'</p>
+<p>'Because he wouldn't let me.'</p>
+<p>'Nonsense. And if a third person claims to have done this murder, I shall go mad.'</p>
+<p>'Colonel Melchett,' Miss Marple said, 'why don't you tell Mr Redding what Mrs Protheroe has done and explain that you don't believe her. And then tell Mrs Protheroe that Mr Redding is innocent - well, then they might both tell you the truth.'</p>
+<p>'But they are the only two people who had a reason for killing Protheroe.'</p>
+<p>'Oh, do you really think so?'</p>
+<p>'Well, can you think of anyone else?'</p>
+<p>'Oh, yes!' said Miss Marple. She counted her fingers, 'One, two, three, four, five, six - yes, and a possible seven. I can think of at least seven people who might be very happy to have Colonel Protheroe dead.'</p>
+<p>'Seven people? In St Mary Mead?' Melchett said.</p>
+<p>Miss Marple nodded brightly. 'There is a lot of wickedness in the world. A good soldier like you doesn't know about these things.'</p>
+<p>I thought the Chief Constable was going to explode with anger.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TEN</p>
+<p>As I entered the vicarage, I could hear voices. I opened the sitting room door and on the sofa beside Griselda, sat Gladys Cram, Dr Stone's secretary.</p>
+<p>'Good morning, Mr Clement,' she said. 'Isn't the news awful? A murder! In this quiet village.'</p>
+<p>'So Gladys came round to find out all about it,' Griselda said.</p>
+<p>Miss Cram laughed loudly. 'A girl also wants a bit of excitement. And, Mrs Clement, you are the only person in the village I can talk to, except a lot of old women.'</p>
+<p>'There's Lettice Protheroe,' I said.</p>
+<p>She shook her head. 'She's too grand to talk to a girl who has to work to earn money. Although I did hear her saying, she wanted to work herself. She's not very happy at home. Well, who would be happy with a stepmother? I wouldn't put up with it.'</p>
+<p>'Ah! But you're strong,' said Griselda.</p>
+<p>Miss Cram was obviously pleased. 'That's me. And I've told Dr Stone that I must have regular times off. These scientists, they think a girl's a kind of machine. Dr Stone thinks only about archeaology.'</p>
+<p>'Is he at the barrow now?' asked Griselda.</p>
+<p>Miss Cram shook her head. 'He's not very well this morning. But do tell me, Mr Clement, what do the police think about the murder?'</p>
+<p>'Well,' I said, 'things are a little uncertain.'</p>
+<p>'Ah! Then they don't think Lawrence Redding did it. So good-looking, isn't he? Like a film star. I couldn't believe it when I heard the police had arrested him. They're very stupid, aren't they?'</p>
+<p>'Mr Redding came in and confessed,' I said.</p>
+<p>'Why? What did he kill Protheroe for?'</p>
+<p>'It's not certain that he did kill him.'</p>
+<p>'But why would he say he had done it if he hadn't?'</p>
+<p>I could think of no answer to this.</p>
+<p>'Well,' she got up, 'I suppose I must go.' And with many thanks and goodbyes, she left.</p>
+<p>So I told Griselda everything that had happened that morning, then rang the bell for Mary. When she came in, I asked her, 'Mary, are you sure you didn't hear the shot yesterday evening?'</p>
+<p>'The shot that killed old Protheroe? No, of course I didn't. If I had, I would have gone in to see what had happened.'</p>
+<p>'Yes, but did you hear any other shot - one down in the woods, perhaps?'</p>
+<p>'Oh! That.' Mary paused. 'Just one. Strange sort of noise it was.'</p>
+<p>'What time did you hear it?'</p>
+<p>'I don't know.'</p>
+<p>'Was it long before Mr Redding came?'</p>
+<p>'No. Ten minutes - a quarter of an hour - not longer than that.'</p>
+<p>I nodded.</p>
+<p>'Is that all?' said Mary. 'Because the potatoes are probably burning.'</p>
+<p>'Yes, you can go.' She left the room, and I turned to Griselda. 'Don't you think it would be a good idea if Mary was taught how to cook?'</p>
+<p>'No. If she learned to cook, she would leave to get more money. So while Mary can't cook we're safe, because nobody else would want her. Also,' continued Griselda, 'you must forgive her for not caring about Colonel Protheroe's death. Because he sent her boyfriend to prison.'</p>
+<p>'What for?'</p>
+<p>'For poaching. You know, that man, Archer. Mary has been with him for two years.'</p>
+<p>'I didn't know that.'</p>
+<p>'Darling Len, you never know anything.'</p>
+<p>'It's strange,' I said, 'that everyone says the shot came from the woods.'</p>
+<p>'It's not strange at all,' said Griselda. 'One often hears shots in the woods. So when you hear a shot, you naturally think it comes from there.'</p>
+<p>The door opened again. 'Colonel Melchett's back,' said Mary. 'And that police inspector. They're in the study.'</p>
+<p>CHAPTER ELEVEN</p>
+<p>As soon as I went in, Melchett said, 'Inspector Slack does not believe that Redding is innocent.'</p>
+<p>'If he didn't do it, why did he say that he did?' said Slack. 'But Mrs Protheroe did exactly the same.'</p>
+<p>'That's different. She's a woman, and women act in that silly way. She heard he had confessed, so made up a story. But Redding's a man. And if he says he did it, well, then he did.</p>
+<p>'Miss Marple saw him and Mrs Protheroe leave the studio just after six-thirty. Dr Stone met them and they walked together to the village. Mrs Protheroe then went into Miss Hartnell's house to borrow a gardening magazine. Miss Hartnell says she stayed there until seven o'clock, and Redding went with Stone to the Blue Boar for a drink. Then he went back to the vicarage and asked for the vicar at the front door. Mary told him that Colonel Protheroe was there, so he went in - and shot him - just as he said he did!'</p>
+<p>Melchett shook his head. 'But the doctor says that Protheroe was shot before six-thirty.'</p>
+<p>'Oh, doctors, what do they know!' Slack replied.</p>
+<p>'But I touched the body and it was cold,' I said.</p>
+<p>'And why should I believe you?' said Slack. 'When you did not tell me the truth about your clock.'</p>
+<p>'I tried to tell you several times,' I said. 'And you refused to listen.'</p>
+<p>'Nonsense. And anyway, why do you keep your clock a quarter of an hour ahead?'</p>
+<p>'It is supposed,' I said, 'to help me to be on time.'</p>
+<p>'Inspector,' said Colonel Melchett. 'What we want is the true story from both Mrs Protheroe and Mr Redding. I have asked Dr Haydock to bring Mrs Protheroe over here. But I think we should see Redding first.'</p>
+<p>'I'll call the station,' said Slack, 'and then we'll get to work on this room.'</p>
+<p>I decided to leave them and found my wife and Miss Marple in the sitting room.</p>
+<p>'I wish you could solve the crime, Miss Marple,' Griselda said. 'Like you did when Miss Wetherby's bag of onions disappeared. And all because it reminded you of something very different, something about a bag of wood for the fire.'</p>
+<p>'You are laughing at me,' said Miss Marple, 'but that is a very good way of finding the truth. It's what people call intuition. Intuition is like reading a word without having to spell it out. You know the word because you've seen it so often before. Do you understand, Vicar?'</p>
+<p>'Yes,' I said. 'If a thing reminds you of something else - well, it's probably the same type of thing.'</p>
+<p>'Exactly.'</p>
+<p>'And what does the murder of Colonel Protheroe remind you of?'</p>
+<p>Miss Marple sighed. 'So many things. For example, there was Major Hargreaves, a respected churchwarden. And all the time he was keeping a second family - a former servant, and five children! What a terrible shock to his wife and daughter.'</p>
+<p>'I wish you would tell me,' I said, 'who your seven suspects are.'</p>
+<p>'Oh, but I mustn't mention names. You can think of them yourself, I am sure.'</p>
+<p>'I can't. There is Lettice Protheroe, I suppose, because she probably gets money after her father's death. But I can't think of anyone else.'</p>
+<p>'I don't believe that it was Lawrence or Anne, or Lettice,' Griselda said. 'There must be some clue that would help us.'</p>
+<p>'There is the note, of course,' said Miss Marple.</p>
+<p>'It seems to fix the time of his death exactly,' I said. 'And yet, is that possible? Mrs Protheroe would only have just left the study. She would not have had time to reach the studio.'</p>
+<p>'What do you think, Miss Marple?' asked Griselda.</p>
+<p>'I wasn't thinking about the time on the letter. What I find strange is what it said.'</p>
+<p>'I don't understand,' I said. 'Colonel Protheroe just wrote that he couldn't wait any longer</p>
+<p>'At twenty minutes past six?' said Miss Marple. 'Mary had told him that you wouldn't be in till half-past six, and he was willing to wait until then. And yet at twenty past six he sits down and says he "can't wait any longer".'</p>
+<p>I looked at the old lady, feeling increased respect for her intelligence.</p>
+<p>'Imagine,' I said, 'that at about 6.30 Colonel Protheroe sat down to write that he couldn't wait any longer. And as he was writing, someone came in through the garden doors, came up behind the colonel and shot him. Then he saw the note and the clock and he wrote 6.20 at the top of the letter and altered the clock to 6.22. He thought that it gave him a perfect alibi.'</p>
+<p>'Then there was that shot I heard,' said Miss Marple, 'Yes, the sound was different from the usual sort of shot.'</p>
+<p>'Louder?' I suggested.</p>
+<p>No, Miss Marple didn't think it had been louder, just different. Then she got up and said she really must get home.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWELVE</p>
+<p>When Lawrence Redding arrived, I was called to the study.</p>
+<p>'We want to ask you a few questions, here where it happened,' Colonel Melchett said. 'Did you know that someone else has also confessed to the murder which you say you committed?' The effect of these words on Lawrence was immediate. 'Someone else? Who - who?'</p>
+<p>'Mrs Protheroe,' said Colonel Melchett.</p>
+<p>'Nonsense. It's impossible.'</p>
+<p>'Well, we do not believe her story either,' said Melchett. 'And Dr Haydock is certain that the murder could not have been committed at the time you say you did it. So, why don't you tell us the truth?'</p>
+<p>'I've been a fool,' Lawrence said. 'How could I have thought for one minute that Anne did it? I met her in the studio that afternoon...' He paused.</p>
+<p>'We know all about that,' said Melchett.</p>
+<p>'Right. Well, after the vicar saw us there, I promised him that I would leave the village. So I met Mrs Protheroe that evening at a quarter past six and told her my decision. Then we left the studio, and met Dr Stone, and I went off with him to the Blue Boar for a drink. I was upset and afterwards I suddenly decided to go and see the vicar.</p>
+<p>'At the front door, I was told that he was out, but that Colonel Protheroe was in the study waiting for him. So I said I'd wait, too.' He stopped.</p>
+<p>'Well?' said Colonel Melchett.</p>
+<p>'Protheroe was sitting at the desk. He was dead. Then I saw the pistol lying on the floor beside him. I picked it up - and recognized it as my pistol! And I just thought Anne must have taken it, meaning to shoot herself because she was so unhappy. I thought that after we parted in the village, she must have come back here and - so I put the pistol in my pocket and left. Just outside the gate, I met the vicar. He said something nice and normal about seeing Protheroe - and I just started shouting. Then I walked and walked. And I thought that if Anne had done this awful thing, I was responsible, so I went and confessed.'</p>
+<p>The colonel said, 'Did you touch the body?'</p>
+<p>'No. I could see he was dead without touching him.'</p>
+<p>'Did you see a note on the desk?'</p>
+<p>'No.'</p>
+<p>'Did you touch the clock?'</p>
+<p>'No. I remember a clock lying there, but I did not touch it.'</p>
+<p>'When did you last see your pistol?'</p>
+<p>Lawrence Redding thought. 'I'm not sure.'</p>
+<p>'Where do you keep it?'</p>
+<p>'On a shelf in my cottage.'</p>
+<p>'Who has been to your cottage lately?'</p>
+<p>'Oh! Crowds of people. I had a tea party the day before yesterday. Lettice Protheroe, Dennis, and all their friends. And then some of the old ladies often come in.'</p>
+<p>'Do you lock the cottage up when you go out?'</p>
+<p>'No. No one locks their house up round here.'</p>
+<p>'Who cleans your cottage?'</p>
+<p>'Old Mrs Archer comes in every morning.'</p>
+<p>'Would she remember when she last saw the pistol?'</p>
+<p>'I don't know.'</p>
+<p>'So, almost anyone might have taken it.'</p>
+<p>The door opened and Dr Haydock came in with Anne Protheroe.</p>
+<p>'Forgive me, Anne,' Lawrence said. 'It was awful of me to think you could have killed...'</p>
+<p>She turned to Colonel Melchett. 'Is it true, what Dr Haydock told me?'</p>
+<p>'That Mr Redding is not a suspect anymore? Yes. So what about your story, Mrs Protheroe?'</p>
+<p>'I suppose you think I was foolish?'</p>
+<p>'Well, let us forget about that. What I want now is the truth.' She nodded. 'I had arranged to meet Lawrence that evening at the studio. At a quarter past six. My husband and I drove into the village together. He said that he was going to see the vicar. I was rather worried about meeting Lawrence in the garden while my husband was inside the vicarage.</p>
+<p>'But I thought that perhaps my husband wouldn't stay very long. To find this out, I came along the back road to the study. I hoped no one would see me, but of course, Miss Marple was in her garden! She stopped me and I explained I was going to meet my husband. Then I went straight across to the study and looked through the window. The room was empty. So I hurried down to the studio where Lawrence joined me.'</p>
+<p>'You say the room was empty, Mrs Protheroe?'</p>
+<p>'Yes.'</p>
+<p>'Very strange.'</p>
+<p>Inspector Slack whispered to the Chief Constable, who nodded. 'Do you mind, Mrs Protheroe, just showing us exactly what you did?' Inspector Slack pushed open the glass doors, and she stepped outside and walked round the house to the left. Then he told me to go and sit at the desk. As I sat there, I heard footsteps outside, they paused for a minute, then went away. Inspector Slack told me to return to the other side of the room. Mrs Protheroe came back through the glass door.</p>
+<p>'Is that exactly what you did?' Colonel Melchett asked her.</p>
+<p>'Yes.'</p>
+<p>'Then can you tell us where the vicar was in the room?' asked Inspector Slack.</p>
+<p>'But I didn't see him.'</p>
+<p>Inspector Slack nodded. 'He was round the corner at the desk. And that's why you didn't see your husband.'</p>
+<p>'Oh! Was he sitting there when he was killed?'</p>
+<p>'Yes, Mrs Protheroe. He was. Did you know that Mr Redding had a pistol?'</p>
+<p>'Yes.'</p>
+<p>'Did you know where he kept it?'</p>
+<p>'I think I saw it on a shelf in his cottage.'</p>
+<p>'When was the last time you were at the cottage, Mrs Protheroe?'</p>
+<p>'About three weeks ago. Mr Redding usually came up to the Hall. He was painting a picture of Lettice. We - we often met in the woods afterwards.'</p>
+<p>Colonel Melchett nodded.</p>
+<p>'It's so awful - having to tell you these things,' she cried. 'And we did nothing wrong. We were just friends. That was all.'</p>
+<p>'Thank you, Mrs Protheroe, for answering my questions,' he said.</p>
+<p>'Then - can I go?'</p>
+<p>'Yes.'</p>
+<p>So she and Haydock and Lawrence Redding left. Colonel Melchett remained, and Slack who was looking at the note. It was then that I told him Miss Marple's theory.</p>
+<p>'Oh,' Slack said, 'I believe the old lady's right. Look, the time is written in blue ink!'</p>
+<p>We were all rather excited.</p>
+<p>'You've examined the note for fingerprints, of course,' said Melchett.</p>
+<p>'Of course. No fingerprints on the note at all. Fingerprints on the pistol are Lawrence Redding's.</p>
+<p>'Who lives in the other house next door?' the colonel suddenly asked.</p>
+<p>'Mrs Price Ridley.'</p>
+<p>'We'll go and see her. She might know something.'</p>
+<p>As we left the vicarage, Dennis came running towards us. 'What about that footprint I found?' he said to the Inspector.</p>
+<p>'It was the gardener's,' said Inspector Slack.</p>
+<p>'You don't think it might be someone else wearing the gardener's boots?'</p>
+<p>'No, I don't!'</p>
+<p>'You're not arresting Uncle Len, are you?' asked Dennis.</p>
+<p>'Why should I?' asked Slack.</p>
+<p>'Because only the day before the crime he said that anyone who murdered Colonel Protheroe would be doing the world a favour.'</p>
+<p>'Ah!' said Inspector Slack, 'that explains something Mary said when I spoke to her. Come on, Clement.'</p>
+<p>'Where are you going? Can I come, too?' asked Dennis.</p>
+<p>'No, you can't,' I said. We left him looking after us with a hurt expression.</p>
+<p>We went up to the neat front door of Mrs Price Ridley's house and the inspector rang the bell. A pretty servant answered the door.</p>
+<p>'Is Mrs Price Ridley in?' asked Melchett.</p>
+<p>'No, Sir. She's gone down to the police station.'</p>
+<p>As we left, Melchett said, 'If she's gone to confess to the murder, too, I really shall go mad.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER THIRTEEN</p>
+<p>We discovered Mrs Price Ridley talking very fast to a patient policeman.</p>
+<p>She stopped when she saw us. 'Ah! I am glad you are taking action after what happened. Shocking, it was!'</p>
+<p>'Well, have you anything you can tell us about it?' Melchett asked.</p>
+<p>'It's your job to tell me.'</p>
+<p>'Were doing our best, Mrs Price Ridley,' said the Chief Constable.</p>
+<p>'But this man hadn't even heard of it till I told him!' she cried. We all looked at the policeman. 'The lady was called on the telephone,' he said. 'Bad language was used.'</p>
+<p>'Oh! I see,' Colonel Melchett said. 'You came down here to make a complaint.'</p>
+<p>Mrs Price Ridley began talking again. 'I was telephoned in my own house and insulted!'</p>
+<p>'When?'</p>
+<p>'Yesterday evening. About half-past six. And I was threatened...'</p>
+<p>'What did they threaten you with?'</p>
+<p>'I can't remember.'</p>
+<p>'Was it a man's voice or a woman's?'</p>
+<p>'It was an unpleasant voice,' said Mrs Price Ridley. 'Now deep, now high. A very strange voice.'</p>
+<p>'Probably a joke,' said the colonel. 'But can you tell me exactly what was said?'</p>
+<p>Mrs Price Ridley thought about it. 'You promise to tell no one outside this room?'</p>
+<p>'Of course.'</p>
+<p>'Well, this person began by saying, "You are a very unpleasant old woman who tells lies!" Me, Colonel Melchett! "And now the police are after you."'</p>
+<p>'Of course, you were upset,' said Melchett, trying not to smile.</p>
+<p>'"Unless you keep quiet, it will be very bad for you." I replied, "Who are you?" and the voice answered, "The Avenger". I gave a little cry. And the person laughed! Then they put down the telephone. I thought I was going to faint. So when I heard a shot in the woods, I...'</p>
+<p>'A shot in the woods?' asked Inspector Slack.</p>
+<p>'Yes. Like a very big gun. I had to lie down on the sofa.'</p>
+<p>'Shocking,' said Melchett. And the shot was loud? As though it was close by?'</p>
+<p>'Perhaps because I was upset.'</p>
+<p>'What time was this?'</p>
+<p>'About half-past six.'</p>
+<p>'Well,' said Melchett. 'We'll see what we can find out for you.'</p>
+<p>'Just think of the call as a joke, and don't worry, Mrs Price Ridley,' I said.</p>
+<p>She looked at me coldly. Obviously, she was still cross about the missing pound note. And, shaking her head, she left.</p>
+<p>'So, that is three people who heard the shot,' said Inspector Slack. 'We've now got to find out who fired it. But first I'm going to investigate that telephone call.'</p>
+<p>'Mrs Price Ridley's?'</p>
+<p>The Inspector smiled. 'No. I meant the call that got you out of the vicarage. And the next thing is to find out what everyone was doing that evening between six and seven. We'll begin with you, Mr Clement.'</p>
+<p>'Oh. Well, the telephone call was at about half-past five.'</p>
+<p>'A man's voice or a woman's?'</p>
+<p>'A woman's, I think. But I thought it was Mrs Abbott speaking.'</p>
+<p>'And you left immediately? How long did it take you?'</p>
+<p>'It's nearly two miles. So...'</p>
+<p>'And where was Mrs Clement?'</p>
+<p>'She was in London. She arrived back by the 6.50 train.'</p>
+<p>'Right. That finishes with the vicarage. I'll be off to Old Hall next. And then I want to talk to Mrs Lestrange. Why did she go to see Protheroe the night before he was killed?'</p>
+<p>CHAPTER FOURTEEN</p>
+<p>On my way home, Dr Haydock stopped his car beside me just outside his house. 'I've taken Mrs Protheroe home,' he called. 'Come in a minute.'</p>
+<p>So I did. As we sat down, I told him that we now knew the time of the shot.</p>
+<p>'That clears Anne Protheroe,' he said. 'Well, I'm glad it's neither of those two. I like them both.'</p>
+<p>I believed him, and yet I wondered why he now looked so unhappy. This morning he had looked like a man free from worry. Suddenly he said, 'I meant to tell you about your curate, Hawes. All this trouble made me forget.'</p>
+<p>'Is he ill?'</p>
+<p>'Not exactly. You know, of course, that he has had sleeping sickness?'</p>
+<p>'No,' I said. 'I didn't. When did he have it?'</p>
+<p>'About a year ago. He got better. But it's a strange illness - the whole character may change after it.'</p>
+<p>'Haydock,' I said, 'if you knew that someone was a murderer, would you tell the police, or would you stay silent?'</p>
+<p>He turned on me angrily. 'Why do you ask me that?'</p>
+<p>'Well, as a doctor, if you somehow discovered the truth - I wondered what you would do, that's all.'</p>
+<p>His anger disappeared. 'I hope I would do my duty, Clement.'</p>
+<p>'But which of those choices do you think would be your duty?'</p>
+<p>He looked at me. 'Every man has to decide for himself.'</p>
+<p>'Well, I must be going,' I said. 'I'm already late for lunch.'</p>
+<p>My family demanded a full account of the morning's activities, when I arrived. But then Mary came in, 'Mr Hawes wants to see you. I've put him in the sitting room.' Then she handed me a note. I tore it open and read:</p>
+<p>Dear Mr Clement,</p>
+<p>I would be very grateful if you could come and see me this afternoon. I am in great trouble and would like your advice.</p>
+<p>Sincerely yours,</p>
+<p>Estelle Lestrange.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER FIFTEEN</p>
+<p>Hawes was shaking all over. I told him he should be in bed but he said that he was perfectly well. 'I called to tell you how sorry I was that such a death has happened in the vicarage. But they haven't arrested Mr Redding?'</p>
+<p>'No,' I said. 'That was all a mistake.'</p>
+<p>'Why? Do the police suspect someone else? Colonel Protheroe was not a popular man. But murder! For murder - one would need a very strong reason.'</p>
+<p>'I suppose so.'</p>
+<p>'Have you told the police about that man Archer threatening Protheroe?'</p>
+<p>'No,' I said. 'I have not.'</p>
+<p>'I overheard Protheroe telling you yesterday. So I hope you will.'</p>
+<p>I was silent. Archer is a poacher, but friendly and cheerful. He was probably very angry about being sent to prison but would feel differently when he came out.</p>
+<p>'If he shot Colonel Protheroe...'</p>
+<p>'If! There is no evidence of any kind that he did.'</p>
+<p>'I don't understand you, Sir.'</p>
+<p>'Don't you,' I said. 'But you're young. When you get to my age, you will find that you like to think the best of people.'</p>
+<p>'I just wondered... if Colonel Protheroe had told you something...'</p>
+<p>'Nothing that you didn't hear.'</p>
+<p>Hawes was nervous and his behaviour strange. I remembered what Dr Haydock had said about his illness and supposed that explained it. He left unwillingly, as though he had more to say but didn't know how to say it. And then I also left to go and see Mrs Lestrange.</p>
+<p>In the sitting room, Mrs Lestrange rose to meet me. There was something dead about her face. Only the eyes were alive. There was a watchful look in them. We sat down.</p>
+<p>'It was very good of you to come, Mr Clement. I wanted to talk to you the other day. Then I decided not to. I was wrong. I am in a very strange position, Mr Clement, and I want to ask your advice about what I should do next. What is past is past and cannot be undone. You understand?'</p>
+<p>Before I could reply, the maid came in. 'There is a police inspector here, and he says he must see you.' Mrs Lestrange said calmly, 'Show him in, Hilda.'</p>
+<p>Slack marched in. 'Good afternoon, Madam.' Then he saw me and frowned. Mrs Lestrange took no notice. 'What can I do for you, Inspector?'</p>
+<p>'Murder of Colonel Protheroe. I'm asking everyone where they were yesterday evening between the hours of six and seven p.m.'</p>
+<p>'I was here. In this house.'</p>
+<p>'Oh! And your maid was here too?'</p>
+<p>'No, it was Hilda's afternoon out. So, you will have to trust me,' said Mrs Lestrange, smiling.</p>
+<p>'You were at home all afternoon?'</p>
+<p>'You said between six and seven, Inspector. I went out for a walk earlier. I returned some time before five o'clock.'</p>
+<p>'Then if a lady - Miss Hartnell perhaps - said that she came here about six o'clock, rang the bell, but got no answer - you would say she was mistaken?'</p>
+<p>'Oh, no. If your maid is in, she can say you are not at home. If you are alone and do not want to see people - well, the only thing to do is to let them ring.'</p>
+<p>Inspector Slack looked confused.</p>
+<p>'Miss Hartnell is very boring,' said Mrs Lestrange. 'She rang at least six times before she went away.'</p>
+<p>'So if anyone said that they'd seen you out and about then...'</p>
+<p>'Oh! But they didn't, did they? Because I was in, you see.'</p>
+<p>'Exactly, Madam.' The Inspector moved his chair a little nearer. 'I understand that you visited Colonel Protheroe the night before his death.'</p>
+<p>'Yes.'</p>
+<p>'Can you tell me what you talked about?'</p>
+<p>'It was private.'</p>
+<p>'I'm afraid I must ask you tell me about it, private or not.'</p>
+<p>'But I shall not tell you. I will only say that nothing which was discussed had anything to do with the crime.'</p>
+<p>'I don't think you are the best judge of that.'</p>
+<p>'Then again, you will have to trust me, Inspector.'</p>
+<p>Inspector Slack's face was suddenly very red. 'This is a serious matter, Mrs Lestrange. I want the truth-' He banged his hand on a table.</p>
+<p>Mrs Lestrange said nothing.</p>
+<p>'Did you know Colonel Protheroe well?'</p>
+<p>There was a pause before she said, 'I had not seen him for several years.'</p>
+<p>'It was an unusual time to call on him.'</p>
+<p>'No it wasn't. I wanted to see him alone.'</p>
+<p>'Why didn't you want to see Mrs or Miss Protheroe?'</p>
+<p>'That, Inspector, is my business.'</p>
+<p>Inspector Slack got up. 'Good afternoon, Madam. But remember we are going to find out the truth.'</p>
+<p>When he had gone, Mrs Lestrange also got up and held out her hand to me. 'I am going to send you away. It is too late for advice now.' Then she turned away. 'I know what I must do.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER SIXTEEN</p>
+<p>I had arranged to visit Mrs Protheroe to discuss the funeral arrangements, so I walked to Old Hall.</p>
+<p>When we had finished, I said goodbye and took the private path towards the vicarage. I had a plan. When I found a place where the plants beside the path looked as though someone had walked on them, I left the path and forced my way through. But suddenly I heard someone else moving very close to me. As I paused, Lawrence Redding appeared, carrying a large stone.</p>
+<p>I must have looked shocked, for he started to laugh. 'No,' he said, 'it's not a clue, it's a gift.'</p>
+<p>'What?'</p>
+<p>'I wanted an excuse to call on Miss Marple. And I heard that she loves old stones for her Japanese garden.'</p>
+<p>'True,' I said. 'But why do you want to see her?'</p>
+<p>'Well, if there was anything to be seen yesterday evening, Miss Marple saw it. Clement, I'm going to solve this crime. For Anne's sake.' He paused, then said, 'What are you doing in the woods, Vicar?' I didn't know what to say.</p>
+<p>'We've got the same idea, haven't we?' he smiled. 'How did the murderer come to the study? First way, along the road and through the gate. Second way, by the front door. Third way - is there a third way? My idea was to see if any of the bushes were broken near the vicarage garden wall.'</p>
+<p>'That was just my idea,' I admitted.</p>
+<p>'But I suddenly thought that I'd like to see Miss Marple first.'</p>
+<p>So we walked together to her house. She was working in the garden, and was very pleased with the stone. 'It's so kind of you, Mr Redding.'</p>
+<p>Then Lawrence asked his most important question. But Miss Marple was sure she had seen nobody in the road when he and Anne were in the studio.</p>
+<p>'Did you see anyone go by the path into the woods that afternoon?' I asked. 'Or come from there?'</p>
+<p>'Oh, yes. Dr Stone and Miss Cram - it's the quickest way to the barrow. That was just after two o'clock. And Dr Stone returned that way - as you know, Mr Redding, because he joined you and Mrs Protheroe.'</p>
+<p>'And that shot,' I said. 'The one you heard, Miss Marple. Mr Redding and Mrs Protheroe must have heard it, too.'</p>
+<p>'Yes,' Lawrence said. 'I believe I did hear some shots.'</p>
+<p>'I only heard one,' said Miss Marple.</p>
+<p>'I can't remember it very well,' said Lawrence. 'All I could think about was Anne-'</p>
+<p>Miss Marple changed the subject. 'Inspector Slack asked me whether I heard the shot after Mr Redding and Mrs Protheroe had left the studio or before. I believe that it was after.'</p>
+<p>'Then it couldn't have been Dr Stone,' said Lawrence.</p>
+<p>'Although nobody has ever thought that he did shoot Protheroe.'</p>
+<p>'Ah!' said Miss Marple. 'But I always think it wise to suspect everybody just a little.'</p>
+<p>'Well then,' said Lawrence. 'Can you think why Mrs Lestrange visited Protheroe after dinner on Wednesday night?'</p>
+<p>'No, but I expect someone heard something. Perhaps, Mr Redding, you can find out. Women servants hate talking to the police. But a nice-looking young man, I'm sure they would tell him at once.'</p>
+<p>'I'll go and try this evening,' said Lawrence. 'But first, the vicar and I have a little job to do.' So we said goodbye to Miss Marple and walked back to the woods.</p>
+<p>We went up the path until we came to a new place where it looked as though someone had left the path on the right-hand side. We turned and walked this way, but after a short distance, there were no more broken bushes. So we went back to the path and walked a little farther along it. Again, we came to a place where the bushes looked broken. This time we went towards the vicarage and finally to where the bushes grew against the wall.</p>
+<p>Then suddenly there was the sound of breaking wood. I pushed forward - and came face to face with Inspector Slack.</p>
+<p>'So it's you,' he said. 'What are you both doing here?' A little ashamed, we explained.</p>
+<p>'Exactly,' said the Inspector. 'I had the same idea. Would you like to know something?'</p>
+<p>'Yes,' I said.</p>
+<p>'Whoever murdered Colonel Protheroe did not come this way! There's no sign that anyone climbed over this wall. Whoever shot the colonel came through the front door. There's no other way he could have come.'</p>
+<p>'Impossible,' I cried.</p>
+<p>'Why impossible?' he said. 'Your door is open. Anyone can walk in. They know you are out. They know Mrs Clement is in London. They know Dennis is at a tennis party. And they don't need to come through the village. Just opposite the vicarage gate is a public footpath. Yes, that's the way the person came.'</p>
+<p>And it really seemed that he must be right.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER SEVENTEEN</p>
+<p>Inspector Slack came round to see me the next morning. 'Well, Sir,' he said. 'I've found out about that telephone call that you received.'</p>
+<p>'And?'</p>
+<p>'It's rather strange. It was put through from the North Lodge of Old Hall. The place is empty but a window was open. There were no fingerprints on the telephone because it had been cleaned. That tells us something.'</p>
+<p>'What?'</p>
+<p>'It shows that call was made deliberately to get you out of the house. So the murder was planned. If the call had just been a joke, the fingerprints would not have been wiped off so carefully.'</p>
+<p>'I understand.'</p>
+<p>'And I've found out something else. You remember Mrs Price Ridley's complaint about that call to her house?'</p>
+<p>'Yes?'</p>
+<p>'Well, we tracked it - and do you know where it came from? Mr Lawrence Redding's cottage!'</p>
+<p>'What?' I said.</p>
+<p>'But it wasn't Mr Redding who made the call. At that time, 6.30, he was on his way to the Blue Boar with Dr Stone. So, someone walked into the empty cottage and used the telephone. That's two strange telephone calls in one day, and I bet they were made by the same person.'</p>
+<p>'Why?'</p>
+<p>'Well, first Mr Redding's pistol. Then his telephone. Someone's trying to make him look guilty.'</p>
+<p>'So why was the first call not made from his cottage?' I asked.</p>
+<p>'Ah, what did Mr Redding do most afternoons? He went up to Old Hall and painted Miss Protheroe's picture. And from his cottage he would go through the North Gate. Now you see why the call was made from there.'</p>
+<p>I thought for a moment. 'Were there any fingerprints on Mr Redding's phone?'</p>
+<p>'There were not,' said the Inspector crossly. 'That old woman who cleans for him wiped them off yesterday morning. But if only that shot hadn't come just at the end of the call - well, I'd know where to look.'</p>
+<p>'Where?'</p>
+<p>'Well, what about the lady who called on Colonel Protheroe the night before the murder?'</p>
+<p>'Mrs Lestrange!' I cried.</p>
+<p>'Yes,' the Inspector said. 'Suppose Mrs Lestrange had successfully blackmailed Protheroe in the past. Then, years later, she hears that he is living in this village, so comes down here and tries it again. But perhaps this time he says he will go to the police. So she kills him.'</p>
+<p>I said, 'Inspector, Mrs Lestrange is not the kind of person to blackmail someone. She's - well, she's a lady.'</p>
+<p>'Well, Sir, you are a vicar,' he said. 'So you don't know much about the world. Lady indeed! That woman could push a knife into you without feeling anything.'</p>
+<p>Strangely, I could imagine Mrs Lestrange doing that, but not blackmail.</p>
+<p>'But, of course, she can't have telephoned Mrs Price Ridley and shot Colonel Protheroe at exactly the same time,' he continued. Then suddenly he shouted, 'Got it! That telephone call was an alibi. She knew we'd connect it with the first one, so she paid some village boy to make the call for her. And I'm going to find out who.'</p>
+<p>The Inspector hurried off.</p>
+<p>'Miss Marple wants to see you,' said Griselda, appearing at the door. 'She sent over a very strange note. For some reason she can't leave her house. Do go and find out why.'</p>
+<p>I found Miss Marple in a very excited state. 'My nephew, Raymond West, is coming here today,' she explained. 'He writes very clever books, though in real life people are not nearly so unpleasant as he makes his characters. Clever young men know so little about life.'</p>
+<p>'Was there was something you wanted to see me about?' I asked.</p>
+<p>'Oh! Of course. I had forgotten. Yes. It was about a strange thing that happened last night. I couldn't sleep because I kept thinking about Colonel Protheroe, so I got up and looked out of my window. And what do you think I saw?'</p>
+<p>'I don't know.'</p>
+<p>'Gladys Cram,' said Miss Marple. 'Going into the woods with a suitcase.'</p>
+<p>'A suitcase?'</p>
+<p>'Yes. Why would she take a suitcase into the woods at twelve o'clock at night? I don't expect it has anything to do with the murder. But it is a Strange Thing. And just now we must all take notice of Strange Things.'</p>
+<p>'Perhaps she was going to sleep in the barrow?' I suggested.</p>
+<p>'She didn't,' said Miss Marple. 'Because a short time afterwards she came back, and she didn't have the suitcase with her.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER EIGHTEEN</p>
+<p>The inquest into Colonel Protheroe's death was held that same Saturday afternoon at the Blue Boar.</p>
+<p>Lawrence Redding told how he had found the body, and admitted that the pistol belonged to him.</p>
+<p>Mrs Protheroe said that she had last seen her husband at about a quarter to six when they parted in the village street. She had gone to the vicarage at about a quarter past six and thought that the study was empty. But later she had realized that if her husband had been sitting at the desk, she would not have seen him.</p>
+<p>I gave evidence next. I told of my appointment with Protheroe and the phone call asking me to go to the Abbotts' house. I described how I had found the body.</p>
+<p>'How many people, Mr Clement, knew that Colonel Protheroe was coming to see you that evening?' the coroner asked.</p>
+<p>'My wife knew, and my nephew Dennis, and Colonel Protheroe himself mentioned it that morning in the village. Several people must have heard, as he spoke very loudly.'</p>
+<p>Dr Haydock then described the appearance of the body and the exact injuries. It was his opinion that the colonel had been shot at approximately 6.20 to 6.30 - certainly not later than 6.35.</p>
+<p>Inspector Slack's evidence was careful and short. The unfinished letter was produced and the time on it - 6.20 - noted. And because of the clock, it was thought that the time of death was 6.22.</p>
+<p>Our servant, Mary, was next. She said she hadn't heard anything. Colonel Protheroe had arrived at a quarter past six exactly. She heard the church clock just after she had shown him into the study. She didn't hear any shot. Well, of course, there must have been a shot, because the gentleman was found shot - but she had not heard it.</p>
+<p>Mrs Lestrange had been asked to give evidence, but a medical certificate, signed by Dr Haydock, said that she was too ill to attend.</p>
+<p>The last person to give evidence was Mrs Archer, who cleaned Lawrence Redding's cottage. She recognized the pistol. She had seen it in Mr Redding's sitting room. The last time she had seen it was on the day of the murder at lunchtime when she left.</p>
+<p>I was surprised. The inspector had told me she wasn't sure of the time when he questioned her, but she was sure now.</p>
+<p>The verdict was given almost immediately: Murder by Person or Persons Unknown.</p>
+<p>As I left, I saw of a group of young men with bright, interested faces waiting outside. So I went straight back into the Blue Boar and was lucky enough to see Dr Stone.</p>
+<p>'Newspaper reporters,' I said. 'Could I wait here with you for a while?'</p>
+<p>'Of course, Mr Clement.'</p>
+<p>He led the way upstairs and into his sitting room, where Miss Cram was working. She gave me a wide smile. 'Awful, isn't it? Not knowing who did it.'</p>
+<p>'Were you there?' I asked Dr Stone.</p>
+<p>'No, I have no interest in such things. I only think about archaeology.'</p>
+<p>'It must be very interesting,' I said.</p>
+<p>This was just what he wanted to hear. Immediately he began to explain why it was so interesting.</p>
+<p>Dr Stone was a little man. His head was round and bald, and he wore thick glasses. He soon began to explain his disagreement with Colonel Protheroe.</p>
+<p>'A very stupid man. Because he had read a few books, he thought he knew more than a man who has studied the subject all his life and...'</p>
+<p>'You'll miss your train if you are not careful,' interrupted Gladys.</p>
+<p>'Oh!' He looked at his watch. 'This is a wonderful girl, Mr Clement. She never forgets anything.' He went into the next room and returned with a suitcase.</p>
+<p>'I'm going up to London for two days, to see my mother, and my lawyers. On Tuesday I shall return.' Dr Stone attempted to leave, carrying the suitcase, as well as a large coat and a bag of books. I rushed to help him. And so we walked together to the station, Dr Stone with the suitcase, and I with the coat and books.</p>
+<p>'Goodness,' Dr Stone suddenly cried. 'The train!'</p>
+<p>A train from London was standing in the station and the train for London was just coming in. We began to run, and inside we bumped into a very good-looking young man. I recognized him immediately as Miss Marple's nephew and I apologized. But he was not pleased. Dr Stone climbed on the train just before it started.</p>
+<p>I began to walk back to the village and our local chemist, Mr Cherabim, joined me. 'He was lucky not to miss his train,' he said. 'But you can never be sure they will be on time. Do you know last Thursday - the day of the murder - I had been to a meeting in London. And the 6.50 train was half an hour late! I didn't get home until half-past seven.'</p>
+<p>'Annoying,' I said. Then I saw Lawrence Redding on the other side of the road, and told Mr Cherabim that I had to speak to him.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER NINETEEN</p>
+<p>'I am very glad to see you,' said Lawrence. 'Would you like to come to my cottage?'</p>
+<p>We went up the path, and he took a key from his pocket. 'You keep the door locked now,' I said.</p>
+<p>'Yes. Someone knew about that pistol of mine.' He opened the door and I went inside. 'That means that the murderer must have been inside this house - perhaps even had a drink with me.'</p>
+<p>'Not necessarily,' I replied. 'The whole village probably knows where you keep your socks,' Then suddenly I asked, 'Was the pistol loaded?'</p>
+<p>Lawrence shook his head. 'But there was a box of bullets beside it. Unless the real murderer is found, I shall be the suspect until I die. But let me tell you about last night.'</p>
+<p>He had, following Miss Marple's advice, gone up to Old Hall and talked to the servant, Rose.</p>
+<p>'It's about Colonel Protheroe's death,' he had said to her. 'I feel that someone might have seen or heard something, and I wondered if you could help me?'</p>
+<p>'Yes, Sir?'</p>
+<p>I can imagine that Lawrence must have looked very attractive, with his blue eyes shining.</p>
+<p>'So can you tell me anything about the lady who called to see Colonel Protheroe the night before he died.'</p>
+<p>'Mrs Lestrange?'</p>
+<p>'Yes.'</p>
+<p>'Well, Gladdie said...'</p>
+<p>'Gladdie?'</p>
+<p>'Gladdie's a kitchen servant.'</p>
+<p>'So what did she say?'</p>
+<p>'Oh, nothing! We were just talking.'</p>
+<p>Lawrence looked at her. 'I wonder what Mrs Lestrange wanted to see Colonel Protheroe about. Rose, if Gladdie overheard something - it might not seem important - I'd be so grateful to you.'</p>
+<p>'Well, she was walking past the study window, and the master was there with the lady. And of course he did talk very loud.'</p>
+<p>'Of course,' said Lawrence, 'She couldn't avoid overhearing. Can I go into the kitchen and speak to her?'</p>
+<p>'Oh, no, Sir!' Rose cried. 'She doesn't want anyone else to know.'</p>
+<p>At last, a meeting was arranged in the garden, and here Lawrence spoke to a very nervous Gladdie. 'I didn't hear much,' she told him.</p>
+<p>'I understand.'</p>
+<p>'Well, the master was very angry. "After all these years" - that's what he said - "you dare to come here -" Then he said, "I refuse. You will not see her. I will not allow it." It sounded as though the lady wanted to tell Mrs Protheroe something, and he didn't want her to. And I thought, "Men are all alike. Even Colonel Protheroe, a churchwarden and..."'</p>
+<p>'Did you hear anything else?'</p>
+<p>'He said, "I don't believe it. Whatever Dr Haydock says, I don't believe it."'</p>
+<p>'Did you hear the lady speak at all?'</p>
+<p>'Only at the end. She said, "By this time tomorrow night, you may be dead." So when I heard about the murder, I said to Rose, "It's her who did it!"'</p>
+<p>I thought of Miss Marple's churchwarden with his second secret family. Was this the same situation? I also wondered about Haydock. He had saved Mrs Lestrange from giving evidence at the inquest. Perhaps he suspected her of the crime and was trying to protect her. But something in me said, 'It can't be her!' Why? And then something else replied, 'Because she's a very attractive woman. That's why.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY</p>
+<p>When I got back to the vicarage, Griselda met me in the hall. There were tears in her eyes. 'She's leaving.'</p>
+<p>'Who's leaving?'</p>
+<p>'Mary.'</p>
+<p>'Well,' I said, 'we'll get another servant.'</p>
+<p>'Len,' Griselda said. 'Don't you care?'</p>
+<p>I didn't. In fact, I felt rather happy at the thought of no more burnt vegetables and tough meat.</p>
+<p>'I suppose,' I said, 'that someone else has asked her to work for them.'</p>
+<p>'No,' said Griselda. 'Nobody else wants her. But she's upset, so please go and talk to her.' And she pushed me into the kitchen before I could argue.</p>
+<p>Mary was washing potatoes in the sink.</p>
+<p>'Mrs Clement says that you wish to leave us,' I said. 'Will you tell me what has upset you?'</p>
+<p>'I have never been in a house where they had a murder,' Mary said. 'And I never want to be again.'</p>
+<p>'I think that is very unlikely,' I replied.</p>
+<p>'Well, anyway, Colonel Protheroe sent lots of poor fellows to prison just for shooting at a bird. And then, before he's even been buried, his daughter comes here and says I don't do my work properly.'</p>
+<p>'Do you mean that Miss Protheroe came to this house?'</p>
+<p>'Yes. I found her here when I came back from that inquest. She was in the study. "I'm looking for my little yellow hat," she says. "I left it here the other day."</p>
+<p>"Well," I said, "There was no hat here when I cleaned the room on Thursday morning." And she said, "But I don't expect you would have seen it. You don't spend much time cleaning a room, do you?" And she pointed at some dust on the table. So I said, "If the vicar and his wife are satisfied, that is all that matters." And she laughed and said, "Oh! But are they?"'</p>
+<p>'Mary,' I said. 'We would be very sorry to lose you.'</p>
+<p>There were tears in Mary's eyes. 'I wouldn't like to upset you or Mrs Clement.'</p>
+<p>'Then that's all right,' I said. I left the kitchen and found Griselda and Dennis waiting for me in the hall.</p>
+<p>'She's staying,' I said, and told them what had upset Mary.</p>
+<p>'How like Lettice,' said Dennis lovingly. 'She never knows where she's left anything. It's partly what makes her so attractive to everybody.'</p>
+<p>'Not Lawrence Redding,' I said.</p>
+<p>'Oh, but Lawrence is very attractive himself,' said Griselda. 'So he likes the quiet type. Like Anne. I don't think he has any idea that Lettice cares about him.'</p>
+<p>'But she doesn't,' said Dennis. 'She doesn't even like him. She told me so.'</p>
+<p>Griselda did not reply. She turned to me. 'I forgot to tell you, Len, Miss Marple has invited us over tonight after dinner, to entertain the nephew. I said we'd go.'</p>
+<p>'Of course.'</p>
+<p>I went into my study and walked over to the desk. Here Protheroe had sat when he had been shot. Here, where I was standing, his enemy had stood...</p>
+<p>Then I noticed a flash of bright blue on the floor. I bent down. By the desk was a small object. I picked it up. It was a blue earring, and I remembered exactly where I had last seen it.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-ONE</p>
+<p>Miss Marple's nephew, Raymond West, is supposed to be a wonderful writer. His books are about unpleasant people with very boring lives.</p>
+<p>He turned immediately to Griselda and as they talked, I heard her say, 'Do you have any ideas about the murder, Mr West?'</p>
+<p>'Only that it is probably a very ordinary murder, by an angry poacher most likely.'</p>
+<p>'Poor Mrs Protheroe,' Miss Marple said. 'There are so many letters to write. Miss Cram is going to Old Hall to help her. She is free this weekend because Dr Stone is not working on the barrow.'</p>
+<p>'Stone?' said Raymond. 'Is that the archaeologist fellow?'</p>
+<p>'Yes'</p>
+<p>'I met him at a dinner not long ago and we had a most interesting talk. I must visit him.'</p>
+<p>'He's just gone to London,' I said. 'In fact we bumped into you at the station this afternoon.'</p>
+<p>'But that was a little fat man, with glasses. That wasn't Stone.'</p>
+<p>'I don't understand,' I said.</p>
+<p>'The suitcase, of course!' said Miss Marple. 'It reminds me of the man who went round the village pretending to be the Gas Inspector. He stole a lot of valuable things.'</p>
+<p>'Now this really is interesting,' said Raymond West.</p>
+<p>'But has it anything to do with the murder?' asked Griselda. 'It is,' Miss Marple said, 'another Strange Thing.'</p>
+<p>'Yes,' I said. 'And I think the Inspector should be told about it.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-TWO</p>
+<p>Inspector Slack's orders, when I spoke to him on the telephone, were short and strong. We must say nothing to anybody about the suitcase. And a search for it would begin immediately.</p>
+<p>Griselda and I returned home very excited. But soon Dennis followed me into my study, looking upset.</p>
+<p>'What is the matter?' I asked</p>
+<p>'I don't want to go into the Navy.'</p>
+<p>I was very surprised. 'But you love the sea. That's the job you have always wanted to do.'</p>
+<p>'I want to go into banking. I need to get rich quickly. You've got to be rich to marry a girl who expects to have everything she wants.'</p>
+<p>'You know,' I said gently, 'not all girls are like Lettice Protheroe.'</p>
+<p>He was suddenly angry. 'You don't like her. Nobody does. Even the Napiers are saying awful things about her! Just because she left their tennis, party a bit early. But she was bored. And she's very kind really. I wanted to leave, too, but she said, no, because it would upset the Napiers. So I stayed. I would do anything for Lettice.'</p>
+<p>Poor boy. We said goodnight and he went up to bed.</p>
+<p>Next morning at breakfast, Griselda showed me a note she had just received. It was from Anne Protheroe.</p>
+<p>Dear Griselda,</p>
+<p>Could you and the vicar come for lunch today? Something strange has happened, and I would like Mr Clement's advice.</p>
+<p>With love,</p>
+<p>Anne Protheroe.</p>
+<p>'We must go, of course,' said Griselda. 'I wonder what has happened?'</p>
+<p>'Well,' I said, 'the funeral is tomorrow morning. Perhaps it has something to do with that.'</p>
+<p>At Old Hall, we were shown into the sitting room. Miss Cram was there with Anne Protheroe.</p>
+<p>'I saw a reporter at the inquest,' Anne said. 'He asked me if I wanted to find my husband's murderer, and I said, "Yes." And then he asked me whether I suspected anyone, and I said, "No." And then he said, did I think the person who committed the crime knew the village, and I said they certainly seemed to. And that was all. And now look at this!' She held out a newspaper.</p>
+<p>Across the top were the words:</p>
+<p>WIDOW SAYS SHE WILL NEVER REST TILL SHE HAS HUNTED DOWN HER HUSBAND'S MURDERER!</p>
+<p>'It doesn't sound like me, does it?' said Anne.</p>
+<p>Griselda and I agreed. We then went into the dining room for lunch, where Lettice joined us.</p>
+<p>After we had had coffee, Anne said, 'I want to have a little talk with the vicar.'</p>
+<p>I followed her up the stairs to her small sitting room. But to my surprise, she continued along to the end of the passage, then up a narrow staircase and into a large dark room under the roof. On the floor, there were suitcases, broken furniture, and some pictures.</p>
+<p>Anne smiled. 'I am sleeping very badly just now, and at about three o'clock this morning I thought I heard someone moving about the house. So I got up to find out. I thought that the sounds came from up above but when I called up these stairs, "Is anybody there?" there was no answer, so I went back to bed. Then today, I decided to come up here. And I found this!'</p>
+<p>A picture was leaning against the wall with its back towards us. She turned it round. It was a picture of someone, but the face had been cut in such a violent way that it was unrecognizable.</p>
+<p>'What a shocking thing,' I said. 'Who is the picture of?'</p>
+<p>'I don't know. All these things were in the attic when I married Lucius and I've never looked at them before. Do you think I ought to tell the police about it?'</p>
+<p>'I don't know. It doesn't seem to be connected with the murder. But it is another Strange Thing.'</p>
+<p>I followed Anne down to her sitting room. 'What are your plans?' I asked suddenly.</p>
+<p>'Oh, I'm going to live here for another six months! I don't want to. But I have to. Because otherwise people will say that, I ran away - because I felt guilty. Especially when-' She paused. 'When the six months are over, I am going to marry Lawrence.'</p>
+<p>'I thought', I said, 'that you would.'</p>
+<p>She started to cry. 'You don't know how grateful I am to you. If we'd been planning to go away together, and then Lucius had died - it would be so awful now. But you made us both see how wrong it would be.'</p>
+<p>'I, too, am thankful,' I said.</p>
+<p>'But you know,' she sat up, 'unless the real murderer is found people will always think it was Lawrence. Especially when he marries me. That's another reason why I'm staying. I'm going to find out the truth, and that's why I asked Miss Cram to come here. I think she knows something and I want to watch her.'</p>
+<p>'Then the very night she arrives, that picture is cut,' I said.</p>
+<p>'You think she did it? But why?'</p>
+<p>I couldn't think of an answer so I took the blue earring from my pocket. 'I believe this is yours.'</p>
+<p>'Oh, yes!' She held out her hand. 'Where did you find it?'</p>
+<p>But I did not put the jewel into her hand. 'Would you mind if I kept it a little longer?'</p>
+<p>'Why, certainly.'</p>
+<p>I then asked her about her financial situation. 'It is a rather rude question I know, but I am concerned.'</p>
+<p>'I don't think it's rude at all. Lucius was very well off and he left things equally divided between me and Lettice. Old Hall goes to me, but Lettice can choose enough furniture for a small house, and she will have enough money to buy one.'</p>
+<p>I said goodbye to Anne, but there was one more thing I needed to do. And when I found Lettice alone downstairs in the sitting room, I went in and shut the door.</p>
+<p>'Lettice,' I said, and held out the earring, 'Why did you drop this in my study?'</p>
+<p>'I never dropped anything in your study,' she said. 'And that's not mine. That's Anne's.'</p>
+<p>'I know,' I said. 'But she has only been in my study once since the murder, and then she was dressed in black and did not wear blue earrings.'</p>
+<p>'So, she must have dropped it before. She was wearing them on Thursday.'</p>
+<p>'Thursday,' I said, 'was the day of the murder. Mrs Protheroe did come to the study, but only as far as the window, not inside the room.'</p>
+<p>'Where did you find this?'</p>
+<p>'Underneath the desk.'</p>
+<p>'Then it looks,' said Lettice, 'as though she didn't speak the truth?'</p>
+<p>'And now I know that you are not speaking the truth, Lettice. Because the last time I saw, this earring was on Friday morning when I came to Old Hall with Colonel Melchett. It was lying with the other one in your stepmother's bedroom.'</p>
+<p>'Oh-!' She burst into tears.</p>
+<p>I said gently, 'Lettice, why did you do it?'</p>
+<p>'What?' She jumped up, looking wild and frightened. 'What do you mean?'</p>
+<p>'Was it because you disliked Anne?'</p>
+<p>'Oh, yes!' She seemed suddenly confident again. 'So I put the thing under the desk. I hoped it would get her into trouble.' I told her that I would return the earring to Anne and say nothing about how I had found it.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-THREE</p>
+<p>Griselda and I went home separately as I wanted to go round by the barrow to see if the police had found the suitcase.</p>
+<p>'Nothing yet, Sir,' Hurst said. 'But this is the only place where Miss Cram could have hidden it. She was seen walking into the woods, and that path goes only to Old Hall, and to this barrow.'</p>
+<p>I wished Hurst good luck and continued on towards the vicarage. I was almost there when an idea suddenly came into my brain. The day after the murder, I had found broken bushes beside the path. I had thought that Lawrence had broken them. But perhaps Dr Stone or Miss Cram had gone that way?</p>
+<p>I had just reached the place so, once again, I pushed my way through the bushes. This time I noticed some more small branches were broken. Someone had been here since Lawrence and myself.</p>
+<p>I soon came to the place where I had met Lawrence and continued on further. Suddenly it opened out into a little grassy space. There were trees above, but again there were some broken bushes. I went across and looked between them. And there, with great excitement, I saw something smooth hidden under the leaves. Then I pulled out a small suitcase. I tried to open it, but it was locked. As I stood up, I noticed a shiny brown stone lying on the ground. I picked it up and put it in my pocket. Then, carrying the suitcase, I continued on towards home.</p>
+<p>When I reached the lane, I immediately heard a familiar voice, 'Oh! Mr Clement. How clever of you! You've found it!'</p>
+<p>'Yes, Miss Marple, I'm going to take it down to the police station.'</p>
+<p>'You don't think it would be better to telephone?'</p>
+<p>Of course, it would be better to telephone. To walk through the village with the suitcase would only encourage gossip. So I went with Miss Marple into her house and telephoned Inspector Slack.</p>
+<p>He arrived not long afterwards, and not in a good mood. 'Sir, if you thought you knew where this suitcase was hidden, why did you not tell the police?'</p>
+<p>'Because I was in the woods when I suddenly thought about it.'</p>
+<p>He had brought several keys with him and in one minute, the suitcase was open. The first thing we saw was a red scarf. Next, there was a very old coat, then an old cap and an old pair of boots. At the bottom was a package wrapped in newspaper. The inspector tore it open.</p>
+<p>For a moment no one spoke. Inside the parcel were some little silver objects and a silver plate.</p>
+<p>'Colonel Protheroe's seventeenth century tazza!' Miss Marple cried.</p>
+<p>'So that was their plan,' the inspector replied. 'Robbery. But no one has reported these things missing.'</p>
+<p>'Perhaps they didn't know they were missing,' I suggested. 'Colonel Protheroe probably kept them locked away somewhere.'</p>
+<p>'I must investigate this,' said the inspector. 'I'll go up to Old Hall now. That's why Dr Stone went to London. He was afraid that because of the murder we might search his rooms and find this silver. So he told the girl to put on these old clothes and go and hide the suitcase in the woods. Then, when it was safe, he planned to return and collect it one night. Well, this proves he had nothing to do with the murder.'</p>
+<p>When he had gone, I said, 'Well, that's one mystery solved. And Stone is not a murder suspect.'</p>
+<p>'It would seem so,' said Miss Marple. 'But isn't this silver very valuable?'</p>
+<p>'A tazza sold the other day for over a thousand pounds.'</p>
+<p>'That's what I mean. The sale would take some time to arrange. And a lot of people would know about it. But if the robbery was reported, well, the things couldn't be sold at all.'</p>
+<p>'I don't quite understand.' I said.</p>
+<p>'Well, it seems to me that the only way this silver could be sold would be if it had been replaced by copies. And of course, as you say, then Dr Stone would have no reason to murder Colonel Protheroe.'</p>
+<p>'Exactly,' I said.</p>
+<p>'Yes, but Colonel Protheroe did say that he was going to have all his things valued for insurance. He talked about it a lot. Of course, I don't know if he had made any actual arrangements, but if he had...'</p>
+<p>'I see.'</p>
+<p>'Of course, when the expert saw the silver, he would know it wasn't the real thing, and then Colonel Protheroe would remember that he had shown the things to Dr Stone...'</p>
+<p>'I understand. And I think we ought to find out for certain.' I went once more to the telephone and called Old Hall. 'Mrs Protheroe, can you tell me if the contents of Old Hall were ever valued?'</p>
+<p>Her answer came immediately. I thanked her, replaced the receiver, and turned to Miss Marple. 'Colonel Protheroe had arranged for a man to come down from London on Monday - tomorrow - to make a full valuation. Because of the colonel's death the arrangement was cancelled.'</p>
+<p>'Then there was a reason for the murder,' said Miss Marple softly.</p>
+<p>'A reason, yes, but when the shot was fired, Dr Stone was walking to the village with Mrs Protheroe and Lawrence Redding.'</p>
+<p>'Yes,' said Miss Marple. 'So he can't have done it.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-FOUR</p>
+<p>I returned to the vicarage and found my curate, Hawes, waiting for me in my study. He was walking up and down, and his whole body was shaking.</p>
+<p>'My dear fellow,' I said. 'You really must go away for a rest.'</p>
+<p>'Well, I did come to ask you if you would take the service tonight instead of me.'</p>
+<p>'Of course. You are not well...'</p>
+<p>'I am perfectly well. And I want to take the service. But I don't want all those eyes looking at me. And these pains in my head - could you give me a glass of water?'</p>
+<p>I brought the water to him. Then he took a small box from his pocket, took a pill from the box, and swallowed it with the water.</p>
+<p>'I hope you don't take too many of those,' I said.</p>
+<p>'Oh, no. Dr Haydock warned me against that.' Then he looked over at the window. 'You have been up at Old Hall today, haven't you?'</p>
+<p>'Yes.'</p>
+<p>'Excuse me, but did Mrs Protheroe ask you to go there?'</p>
+<p>I looked at him, surprised.</p>
+<p>His face went red. 'I'm sorry. I just thought something had happened and that was why Mrs Protheroe had asked to see you.'</p>
+<p>'She wanted to discuss the funeral arrangements.'</p>
+<p>'Oh! That was all. I see.'</p>
+<p>I did not reply.</p>
+<p>Finally, he said, 'Mr Redding came to see me last night. I don't know why.'</p>
+<p>'Didn't he tell you?'</p>
+<p>'He just said he was a bit lonely in the evenings. But what does he want to come and see me for? I don't like it! I never suggested that he was guilty. The only person I suspected was Archer.'</p>
+<p>'Do you really think he shot Colonel Protheroe?' I asked.</p>
+<p>'Colonel Protheroe sent him to prison. He was determined to punish him, so he had a lot to drink and then shot him. You must admit that's likely?'</p>
+<p>'No, I don't.'</p>
+<p>'Why not?'</p>
+<p>'Because a man like Archer wouldn't kill a man with a pistol. It's the wrong weapon.'</p>
+<p>Hawes looked shocked. It wasn't the answer he had expected. Soon he thanked me and left. I had gone to the front door with him, and on the hall table, I saw four notes. They all looked as though they had been written by the same person, and they all said, 'Urgent'. The only difference I could see was that one was much dirtier than the others.</p>
+<p>Mary came out of the kitchen and saw me looking at them. 'They came by hand after lunch,' she said 'All except one. I found that in the letterbox.'</p>
+<p>I took them into the study. The first one said:</p>
+<p>Dear Mr Clement,</p>
+<p>I have heard something about the death of poor Colonel Protheroe.</p>
+<p>So I would like your advice about whether to go to the police or not.</p>
+<p>Perhaps you could come and see me this afternoon?</p>
+<p>Yours sincerely,</p>
+<p>Martha Price Ridley.</p>
+<p>I opened the second:</p>
+<p>Dear Mr Clement,</p>
+<p>I am very worried. I have learned something that I think may be important. I am frightened of going to the police. Please, dear Vicar, could you come to my house this afternoon and help me?</p>
+<p>Yours very sincerely,</p>
+<p>Caroline Wetherby.</p>
+<p>The third I could guess without reading it.</p>
+<p>Dear Mr Clement,</p>
+<p>I have heard something that is very important. I feel you should be the first to know about it. Will you call in and see me this afternoon?'</p>
+<p>Amanda Hartnell.</p>
+<p>I opened the fourth note.</p>
+<p>Dear Vicar,</p>
+<p>Your wife has been seen coming out of Mr Redding's cottage in a secretive manner. They are having a love affair. I think you ought to know.</p>
+<p>A Friend.</p>
+<p>I crushed the paper in my hand and threw it into the fireplace just as Griselda entered the room.</p>
+<p>'What's that you're throwing away?' she asked.</p>
+<p>'Rubbish,' I said. I took a box of matches from my pocket. But Griselda was too quick for me. She had picked up the paper and read it before I could stop her. Then she threw it back to me.</p>
+<p>I lit it and watched it burn. Griselda had moved away. She was standing by the window looking out into the garden.</p>
+<p>'Len,' she said.</p>
+<p>'Yes, my dear.'</p>
+<p>'When Lawrence came here, I told you that I had only known him slightly before. That wasn't true. I had known him rather well. In fact, I had been in love with him.'</p>
+<p>'Why didn't you tell me?' I asked.</p>
+<p>'Oh! Because you're so silly in some ways. Just because you're much older than I am, you think that I might like other men more than you.'</p>
+<p>'You're very clever at hiding things,' I said.</p>
+<p>'Yes. I rather enjoy it. But it was true that I didn't know about Lawrence and Anne. And I wondered why he hardly noticed me. I'm not used to it.' She paused. 'You do understand, Len?'</p>
+<p>'Yes,' I said, 'I understand.'</p>
+<p>But did I?</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-FIVE</p>
+<p>I still felt upset about the anonymous letter. But I picked up the other three letters and left the vicarage.</p>
+<p>I wondered what it was that the three ladies wanted to tell me. I also wondered whether Inspector Slack had returned from Old Hall, so I went to the police station and found that he had. And that Miss Cram had returned with him. She was sitting there and saying very loudly that she had never taken a suitcase to the woods.</p>
+<p>'That awful old Miss Marple has made a mistake. And I am leaving right now. Unless you are going to arrest me.'</p>
+<p>The Inspector answered by opening the door for her, and Miss Cram walked out.</p>
+<p>'Well,' said Slack. 'Miss Marple may have made a mistake.'</p>
+<p>'She may,' I said, 'but Miss Marple is usually right. What about the silver, Inspector?'</p>
+<p>'It was all there at Old Hall. So one lot of silver must be a copy. There's a good man in Much Benham, who knows all about old silver and I've sent a car to fetch him. We'll soon know which is which. But robbery is unimportant compared with murder.'</p>
+<p>I said goodbye and walked into the village to see the old ladies. I thought that, of course, the news they had heard must be the same thing. But I was wrong.</p>
+<p>I went to Miss Hartnell's house first. 'So good of you to come. Nobody dislikes gossip more than I do, Vicar. But this is about duty.' I could see that she was enjoying herself. 'When I called on Mrs Lestrange on the afternoon of the murder I thought she was out. But I have heard that she has said she was at home all the time and that she didn't answer the door because - well, she didn't want to see me!'</p>
+<p>'She has been ill,' I said.</p>
+<p>'I'll? Nonsense. And it is not true that she was in the house. She wasn't. I know.'</p>
+<p>'How can you possibly know?'</p>
+<p>Miss Hartnell's face turned red. 'I had rung the bell twice. Perhaps three times. And I suddenly thought that perhaps it did not work.'</p>
+<p>'Yes?' I knew that it was easy to hear the bell from outside. 'So I went round the house and knocked on the windows. And I looked through them as well, but there was no one in the house.'</p>
+<p>'What time was this, Miss Hartnell?'</p>
+<p>'It must have been nearly six o'clock. I went straight home afterwards, and Mrs Protheroe called at about half-past six to borrow a gardening magazine. And all the time the poor colonel was lying murdered.'</p>
+<p>'Is that all you wanted to tell me?'</p>
+<p>'I thought it might be important, Mr Clement.'</p>
+<p>I visited Miss Wetherby next. 'Dear Vicar, you are so kind to come round so quickly. You must understand that I heard this from someone who knows the truth.'</p>
+<p>In St Mary Mead, a person who knows the truth is always someone else's servant. 'So, who was that?'</p>
+<p>'I promised that I would tell no one their name. And I always keep a promise. Well, this person said they saw a certain lady walk up the road that goes to the vicarage. But before that, this lady looked around in a very strange way, to see if anyone had noticed her. This was just before six o'clock.'</p>
+<p>'On which day?'</p>
+<p>Miss Wetherby gave a little cry 'The day of the murder, of course!'</p>
+<p>'And the name of the lady?'</p>
+<p>'Begins with an L,' said Miss Wetherby.</p>
+<p>There was still Mrs Price Ridley to see. And the first thing she said was, 'I will not say anything at all to the police. But I have heard of something that I think they should know about.'</p>
+<p>'Does it involve Mrs Lestrange?' I asked.</p>
+<p>'Why should it?'</p>
+<p>I said no more.</p>
+<p>'It is very simple,' she continued. 'My servant, Clara, was standing at the front gate, when she heard a sneeze.'</p>
+<p>'Yes?'</p>
+<p>'That's all. She heard a sneeze.'</p>
+<p>'But,' I said, 'why is that strange?'</p>
+<p>Mrs Price Ridley said very slowly, 'She heard a sneeze on the day of the murder at a time when there was no one in your house. Because the murderer was hiding in the bushes. What you have to look for is a man with a bad cold.'</p>
+<p>'Well, our servant, Mary, has a bad cold. It must have been her sneeze Clara heard.'</p>
+<p>'It was a man's sneeze,' said Mrs Price Ridley. 'And Clara couldn't hear Mary sneeze in your kitchen if she was standing at my gate.'</p>
+<p>'You couldn't hear anyone sneezing in my study from your gate,' I said.</p>
+<p>'But the man might have been hiding in the bushes,' said Mrs Price Ridley. 'Well, that is all I have to say.'</p>
+<p>I said goodbye, and as I left, I asked Clara about the sneeze.</p>
+<p>'It's quite true, sir, I heard a sneeze. And it wasn't an ordinary sneeze.'</p>
+<p>Nothing about a crime is ever ordinary. The sneeze was,</p>
+<p>I imagined a special murderer's sneeze. I decided to visit Dr Haydock and went down the road to his house.</p>
+<p>'How good to see you,' he said. 'What's the news?'</p>
+<p>I told him about Stone.</p>
+<p>'Well, that explains a lot. He had read about archaeology, but he kept making mistakes and Protheroe must have noticed. You remember the disagreement they had. What about Miss Cram? Is she involved?'</p>
+<p>'The police aren't sure.' I then told him that I was worried about my curate, Hawes, and that I was anxious that he should get away for a rest.</p>
+<p>'Yes. I suppose that would be the best thing. Poor fellow.'</p>
+<p>'I thought you didn't like him.'</p>
+<p>'I don't. But I'm sorry for a lot of people I don't like. I'm even sorry for Protheroe. Nobody ever liked him because he always thought he was right, and that others were always wrong. He was the same even when he was a young man.'</p>
+<p>'So, you knew him then?'</p>
+<p>'Oh, yes! When we lived in Westmorland, I had a surgery not far from his house. But that was twenty years ago. Is that all you came to tell me, Clement?' Dr Haydock was watching me. So I told him about my talks with Miss Hartnell and Miss Wetherby. He paused, then said, 'It's true. I've been trying to protect Mrs Lestrange from anything that might upset her. She's an old friend, but that's not my only reason. Mrs Lestrange is dying.'</p>
+<p>'What?'</p>
+<p>'She has about a month to live. And on the evening of the murder she was here, in this house.'</p>
+<p>'But she wasn't here when I sent Mary for you. I mean, when we discovered the body.'</p>
+<p>'No. She'd gone to meet someone.'</p>
+<p>'In her own house?'</p>
+<p>'I don't know, Clement.'</p>
+<p>I believed him but I suspected that he knew more than he said. Then I thought of something, and I took from my pocket the shiny brown stone I had found in the woods. I held it out to him and asked him what it was.</p>
+<p>'Looks like picric acid.'</p>
+<p>'What is picric acid?'</p>
+<p>'It's an explosive. Where did you find it?</p>
+<p>I shook my head. He had his secrets. Well, I would have mine.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-SIX</p>
+<p>That evening, as I sat down to dinner, Griselda said, 'Oh, I forgot to tell you, Len, this note arrived for you when you were out.'</p>
+<p>I took it and shook my head. Across the top was written: By hand - Urgent.</p>
+<p>'This,' I said, 'must be from Miss Marple. She's the only old lady who hasn't written to me today.' I was right.</p>
+<p>Dear Mr Clement,</p>
+<p>I would very much like to talk to you. I will come over at half-past nine. Perhaps dear Griselda and Dennis would be very kind and come over here and entertain my nephew. If I do not hear, I will come at the time I have said.</p>
+<p>Yours very sincerely,</p>
+<p>Jane Marple.</p>
+<p>I handed the note to Griselda.</p>
+<p>'Oh, we'll go!' she said cheerfully.</p>
+<p>They left at just after nine o'clock, and at half-past nine exactly, there was a little knock on my study window, and I opened the glass door for Miss Marple to come in.</p>
+<p>'I think that you are wondering why I am so interested in this murder. I would like to explain.' She paused, and I offered her a chair. 'You see, because I live alone, I need a hobby. I could, of course, choose sewing or drawing, but my hobby is Human Nature. It is so interesting. And when there is a mystery and I think I know the answer, it is so satisfying to find that I am right.'</p>
+<p>'You usually are,' I said, smiling. Then I told her about the three notes I had received that afternoon. I told her about the picture at Old Hall with the person's face cut. I told her how Miss Cram had behaved at the police station. And I also told her about the shiny brown stone I had found. 'But it's probably got nothing to do with the case,' I continued. 'Dr Haydock said it was picric acid.' I then asked her the question that I had wanted to ask her for some time. 'Miss Marple, who do you suspect? You said that there were seven people.'</p>
+<p>'At least, yes,' said Miss Marple. 'But the point is, that each thing has got to be explained correctly. And that's very difficult. If it wasn't for that note...'</p>
+<p>'The note?'</p>
+<p>'Yes, that note is wrong, somehow.'</p>
+<p>'But,' I said, 'it has been explained. It was written at six thirty- five and another person - the murderer - put the incorrect time 6.20 at the top.'</p>
+<p>'But even so,' said Miss Marple, 'it's all wrong.'</p>
+<p>'But why?'</p>
+<p>'Listen.' She leaned forward excitedly. 'Mrs Protheroe walked past my garden, and she went to the study window and she looked in and she didn't see Colonel Protheroe.'</p>
+<p>'Because he was writing at the desk,' I said.</p>
+<p>'And that's what's all wrong. That was at twenty past six. He wouldn't have needed to tell you that he couldn't wait any longer until after half-past six. So, why was he sitting at the desk then?'</p>
+<p>'I never thought of that,' I said.</p>
+<p>'Let us think about it again. Mrs Protheroe went to the window and thought the study was empty. Otherwise, she would not have gone down to the studio to meet Mr Redding. And that leaves three possibilities.'</p>
+<p>'Does it?'</p>
+<p>'The first is that Colonel Protheroe was dead already, but I don't think that's likely. He'd only been there for five minutes. The second possibility is, of course, that he was sitting at the desk writing a note, but it must have been a different note from the one that was found. And the third...'</p>
+<p>'Yes?' I said.</p>
+<p>'Well, the third is, of course, that the room really was empty.'</p>
+<p>'You mean that after he had been shown in, he went out again and came back later?'</p>
+<p>'Yes.'</p>
+<p>'But why would he have done that?'</p>
+<p>Miss Marple shook her head and stood up. 'I must go home. It has been good to have this little talk.'</p>
+<p>'Thank you,' I said. 'But I feel more confused than before.'</p>
+<p>'Oh! Don't say that. I have one idea that fits nearly everything. That is, except for one coincidence. And I think one coincidence is all right. More than one, of course, is not.'</p>
+<p>'So you really think that you know who killed Colonel Protheroe?' I asked.</p>
+<p>'Yes, except for... If only that note had said something different.' She moved towards the window and on her way put her hand into the pot of a rather tired houseplant. 'Poor thing. Your servant should water this plant every day. I suppose it is Mary who looks after it?'</p>
+<p>'I'm not sure that "looks after" are the right words for anything that Mary does,' I said. 'She came back from the inquest and found Lettice Protheroe here. And Lettice told her that she didn't clean properly. It upset her.'</p>
+<p>'Oh!' Miss Marple was just about to step into the garden when she suddenly stopped. 'So that was it! Perfectly possible all the time.' She turned to me. 'I have been stupid - very, very stupid. Goodnight, Mr Clement.' And she went quickly across the lawn towards her house.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-SEVEN</p>
+<p>I had just sat down at my desk again, when the doorbell rang. I went to answer it and saw there was a letter in the letterbox. I took it out, but as I did so, the bell rang again, so I put the letter in my pocket and opened the front door.</p>
+<p>It was Colonel Melchett. 'Hello, Clement. I'm on my way home from town. Thought I'd just say hello and see if you could give me a drink.'</p>
+<p>'I'd be happy to. Come into the study.'</p>
+<p>Melchett followed me there and I went and got a bottle of wine and two glasses.</p>
+<p>'I've got one bit of news for you, Clement. You know that letter that Protheroe was writing when he was killed?'</p>
+<p>'Yes.'</p>
+<p>'We got an expert to look at it - to say whether the 6.20 was written by someone else. And, of course, we sent him examples of Protheroe's writing. And do you know the result? That letter was never written by Protheroe at all. They still think the 6.20 was written by someone else - but they're not sure.'</p>
+<p>'Really? Miss Marple said this evening that the note was all wrong.'</p>
+<p>We looked at each other. Then the telephone rang. I went over and answered it.</p>
+<p>'I want to confess,' a high, nervous voice screamed at me. 'I want to confess!'</p>
+<p>Then the line went dead. I put the phone down, and turned to Melchett. 'You once said that you would go mad if anyone else confessed to the crime.'</p>
+<p>'Yes?'</p>
+<p>'That was someone who wanted to confess, and we were cut off.'</p>
+<p>Melchett rushed to the telephone. 'I'll speak to the operator.'</p>
+<p>'Do,' I said. 'I'm going out. I think I recognized that voice.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-EIGHT</p>
+<p>I hurried down the village street. It was eleven o'clock at night, but when I saw a light in a certain upstairs window, I stopped and rang the doorbell. There was the sound of feet, then a key turned in the lock, and a woman opened the door.</p>
+<p>'Why, it's the vicar!' she said.</p>
+<p>'Good evening, Mrs Sadler,' I replied. 'I am sorry it's so late. But I want to see your lodger, Mr Hawes.' I went quickly up the stairs. Hawes was asleep in a chair. An empty pill bottle and a glass of water were on a table beside him. On the floor, was a letter. I picked it up.</p>
+<p>It began, 'My dear Clement-'</p>
+<p>I read it all, then picked up the telephone and asked the operator for the vicarage. They told me the line was busy. So I asked them to call me when the line was free.</p>
+<p>I then took out of my pocket the note that I had found in the vicarage letterbox. The writing was the same as that on the other anonymous letter that I received earlier. I tore it open. I read it once - twice - but I still could not believe what it said.</p>
+<p>I was beginning to read it a third time when the telephone rang. Like a man in a dream, I picked up the receiver.</p>
+<p>'Melchett here. Where are you? I've found out about that call. The number is...'</p>
+<p>'I know the number.'</p>
+<p>'Is that where you are speaking from?'</p>
+<p>'Yes.'</p>
+<p>'So you've got the murderer?'</p>
+<p>'I don't know,' I said. 'You'd better come here.' I gave him the address. Then I sat down and read the anonymous letter again.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER TWENTY-NINE</p>
+<p>It felt as though years had passed when I heard the door open and Melchett entered the room. He saw Hawes asleep in his chair. 'What's happened, Clement?'</p>
+<p>I passed him one of the letters and he read it aloud.</p>
+<p>My dear Vicar,</p>
+<p>It is a very unpleasant thing that I have to tell you. But I know who is guilty of the crime. It is very painful for me to name a priest of your church. But it is my duty and...</p>
+<p>Here the writing ended. Melchett looked at Hawes. 'So it's the one man we never even thought about!' He went over to the sleeping man and shook him, at first gently, then harder. 'He's not asleep! He's drugged!' He picked up the pillbox. 'Has he...?'</p>
+<p>'I think so,' I said. 'It's his way out, poor fellow.'</p>
+<p>But Melchett had caught a murderer and he wanted his murderer punished. He picked up the telephone and asked for Dr Haydock's number.</p>
+<p>'Hello - hello - hello - Will the doctor come round at once to see Mr Hawes. It's urgent... What?... Well, what number is it then?... Oh, sorry.' He rang off. 'Wrong number! HELLO, you gave me the wrong number... Yes, give me three nine - nine, not five.' And then, 'Hello - is that you, Haydock? Melchett speaking. Come to see Hawes at once, will you? At once, I say!' He put the phone down and turned to me. 'Where did you find this letter, Clement?'</p>
+<p>'On the floor - where it had fallen from his hand.'</p>
+<p>'So Miss Marple was right about us finding the wrong note. But why didn't the stupid fellow destroy this one? It just proves he's guilty! Listen, that sounds like a car.' He went to the window. 'Yes, it's Haydock all right.'</p>
+<p>A moment later, the doctor entered the room. He went across to Hawes and quickly examined him. 'I'm not sure that I can save him, Melchett.'</p>
+<p>'Do everything possible.'</p>
+<p>'Right. Well, I must drive him to the hospital at Much Benham. Help me to carry him down to the car.'</p>
+<p>We both did so. As Dr Haydock climbed into the driving seat, he said, 'You won't be able to put him in prison. The poor fellow wasn't responsible for his actions. And I shall give evidence for him.'</p>
+<p>'What did he mean by that?' asked Melchett as we went upstairs again.</p>
+<p>I explained that Hawes had been ill with sleeping sickness.</p>
+<p>'Always some good reason nowadays for every dirty action, isn't there?'</p>
+<p>But before I could disagree there was an interruption. The door opened and Miss Marple walked in. 'So sorry, Colonel Melchett, but when I heard that Mr Hawes was ill, I felt I must come and see if I could do something.'</p>
+<p>'Very kind of you, Miss Marple,' Melchett said. 'But how did you know Hawes was ill?'</p>
+<p>'The telephone. You thought you were speaking to Dr Haydock. But you were speaking to me. My number is three five.'</p>
+<p>'Well, anyway, there is nothing you can do,' Melchett said. 'Because Haydock has taken Hawes to hospital.'</p>
+<p>'Oh, that is good news! He will be safe there.' She was looking at the pillbox. 'I suppose he took too many of those?'</p>
+<p>'I think you should read this,' I said, and gave her Protheroe's unfinished letter. She took it and read it. 'Mr Clement, why did you come here this evening?'</p>
+<p>I explained about the telephone call and how I had thought I recognized Hawes' voice. Miss Marple nodded. 'So you got here just in time/</p>
+<p>'Don't you think,' I said, 'that it might be better if Hawes didn't recover? We know the truth now and...'</p>
+<p>'Of course,' Miss Marple said. 'Of course! That's what he wants you to think! That you know the truth - and that it's best for everyone as it is. Oh, yes, it all fits in - the letter, and the pills, and poor Mr Hawes' confession. But it's all wrong. That's why I am so glad Mr Hawes is safe in hospital where no one can reach him. If he gets better, he will tell you the truth.'</p>
+<p>'The truth?'</p>
+<p>'Yes - that he never killed Colonel Protheroe.'</p>
+<p>'But the telephone call,' I said. 'The letter - the pills. It's all so clear.'</p>
+<p>'That's what he wants you to think. Oh, he's very clever! Keeping the letter and using it this way was very clever indeed.'</p>
+<p>'Who do you mean,' I said, 'by "he"?'</p>
+<p>'I mean the murderer,' said Miss Marple. 'I mean Mr Lawrence Redding...'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER THIRTY</p>
+<p>We looked at her and said nothing. I really think that for a moment we thought she had gone mad. Colonel Melchett was the first to speak. 'That is nonsense, Miss Marple. Mr Redding has been proved to be innocent.'</p>
+<p>'Of course,' said Miss Marple. 'He made sure of that.'</p>
+<p>'No,' said Colonel Melchett. 'He did his best to get himself arrested for the murder.'</p>
+<p>'Yes,' said Miss Marple. 'He led us all in that direction, including me. You remember, Mr Clement that I was quite shocked when I heard Mr Redding had confessed to the crime. It upset all my ideas and made me think he was not guilty - when up to then I had been sure that he was.'</p>
+<p>'So it was Lawrence Redding you suspected?' I asked.</p>
+<p>'I know that in books it is always the most unlikely person. But in real life it is usually the most obvious one. I have always liked Mrs Protheroe but I soon realized that she would do anything Lawrence Redding told her. And, of course, he is not the sort of young man who would marry a woman who has no money. So first it was necessary for Colonel Protheroe to be removed.'</p>
+<p>'Absolute nonsense!' Colonel Melchett cried. 'We know everything that Redding was doing up to 6.50 and Dr Haydock says Protheroe could not have been shot then.'</p>
+<p>'No indeed. Because it was Mrs Protheroe who shot Colonel Protheroe - not Mr Redding.'</p>
+<p>Again, we looked at her.</p>
+<p>'I did not think it was right to speak until now, because I still needed one more fact in order to explain what had happened. Then suddenly, just as I was leaving Mr Clement's study, I noticed the plant in the pot by the window - and - well, there it was! Clear as day!'</p>
+<p>'Mad - quite mad,' Melchett whispered to me.</p>
+<p>But Miss Marple just smiled and continued, 'I liked Anne and Lawrence, so when they both confessed in that silly way - well, I was happy that I had been wrong. And I began to think of other people who might want Colonel Protheroe dead.'</p>
+<p>'The seven suspects!' I murmured.</p>
+<p>'Yes, indeed. There was Archer. And there was your Mary. She's been Archer's girlfriend for a long time, and she was alone in the house when it happened! And then, of course, there was Lettice - wanting freedom and money to do as she liked. And Dennis, who would do anything for Lettice.'</p>
+<p>'No!' I cried.</p>
+<p>'And then, of course, there is poor Mr Hawes. And you.'</p>
+<p>'Me?' I said.</p>
+<p>'Well, yes. There was that church money that disappeared. Either you or Mr Hawes must have taken it. Of course, I was always sure it was Mr Hawes, but then... there was also dear Griselda.'</p>
+<p>'But Mrs Clement was not even here,' interrupted Melchett. 'She returned from London on the 6.50 train.'</p>
+<p>'That's what she told you,' said Miss Marple. 'But that train was half an hour late. And at a quarter-past seven I saw her walking to Old Hall. So she must have come back on an earlier train.' She looked at me. 'In fact she was seen. But perhaps you know that?'</p>
+<p>I gave her the second anonymous letter I had received. It said that Griselda had been seen leaving Lawrence Redding's cottage at twenty past six on the day of the murder. It had made me think about the past romance between Lawrence and Griselda.</p>
+<p>Perhaps Protheroe had found out about it and was going to tell me. So Griselda stole the pistol and shot him before I got home.</p>
+<p>Miss Marple handed me back the note. 'But by Thursday afternoon the crime had been very carefully planned. Lawrence Redding first called on the vicar, knowing that he was out. He had with him the pistol, which he hid in that plant pot. When the vicar came in, Lawrence explained that he had called to tell him that he had decided to leave the village. At five-thirty, he telephoned the vicar from the North Lodge, pretending he was the wife of a dying man.</p>
+<p>'Mrs Protheroe and her husband had just gone into the village. And, very strangely, she did not take her handbag. Just before twenty past six, she walked past my garden and stopped to speak to me. This was so that I would notice that she had no gun with her. Then she went round the corner of the house to the study window. The poor colonel was sitting at the desk writing his letter to you. She took the pistol from the pot, came up behind him and shot him. Then she dropped the pistol on the floor and walked down to the studio!'</p>
+<p>'But the shot?' said Melchett. 'You didn't hear the shot?'</p>
+<p>'There is, I think, something called a Maxim silencer. So perhaps the sneeze that Mrs Price Ridley's servant heard might have been the shot? But anyway, Mrs Protheroe and Mr Redding went into the studio together - and then realized, of course, that I would not leave my garden until I saw them come out again!'</p>
+<p>I smiled at Miss Marple's humorous understanding of her own character.</p>
+<p>'But when they did come out, their behaviour was happy and normal. And that was a bad mistake. Because if they had really said goodbye to each other they would have been sad. But because of the murder they did not dare to appear upset. For the next ten minutes, they were careful to be seen by people in the village, then at last Mr Redding went back to the vicarage. He picked up the pistol and the silencer, and left the forged letter with the time written on it in blue ink. But when he left the letter, he found the one written by Colonel Protheroe. And he thought that it might be useful, so he put it in his pocket.</p>
+<p>'Then he altered the time of the clock to the same as on the forged letter. He did not know that it was always kept a quarter of an hour ahead. He did this to make it seem that someone was trying to make Mrs Protheroe look guilty. Then he left the vicarage, and met you outside, Vicar. And he acted as though he was very upset. Which was clever. Because someone who had just committed a murder would, of course, try to behave normally. Then he got rid of the silencer and marched into the police station with the pistol and confessed to the crime.'</p>
+<p>'What about the shot heard in the woods?' I asked. 'Was that the coincidence you mentioned?'</p>
+<p>'Oh, no!' Miss Marple shook her head. 'It was absolutely necessary for a shot to be heard because without it Mrs Protheroe might have continued to be a suspect. I believe that picric acid explodes if you drop something heavy onto it. And remember, Vicar that you met Mr Redding carrying a large stone in that same place in the woods where you found the picric acid later.'</p>
+<p>'But the shot was heard at 6.30 when Lawrence and Anne had come out of the studio. You saw them.'</p>
+<p>'Mr Redding had probably used some rope to hang the stone above the picric acid. Then he set fire to the end of the rope, knowing that it would take about twenty minutes to burn through and for the stone to fall and cause the explosion. When you met him, he had just picked up the stone to take it away.'</p>
+<p>'So that no one could discover what had happened?'</p>
+<p>'Yes, but when you appeared, he pretended that he was bringing it to me for my Japanese garden. Only-' Miss Marple paused. 'It was the wrong sort of stone for my garden! And that made me think.'</p>
+<p>'But what about Hawes?' Melchett said. 'He has confessed to the crime.'</p>
+<p>'Yes, but a different one. Poor Mr Hawes felt more and more guilty about taking the money from the collection.'</p>
+<p>'What?'</p>
+<p>'As I said, Mr Redding kept Colonel Protheroe's letter, and he realized that the colonel was saying that Mr Hawes was the thief. So he came back here with Mr Hawes last night and, I think, managed to put some much stronger pills in Mr Hawes' box. Then, when Mr Hawes was unconscious, he put this letter into his pocket. When the poor young man was found dead and the letter was read, everyone would think that he had shot Colonel Protheroe and killed himself because he felt so guilty. In fact, I think that Mr Hawes must have found that letter tonight. And, in his confused state, he decided to confess.'</p>
+<p>'But what about the other telephone call?' Colonel Melchett asked. 'The one from Mr Redding's cottage to Mrs Price Ridley?'</p>
+<p>'Ah!' said Miss Marple. 'That is the coincidence. Dear Griselda made that call. She and Dennis had heard that Mrs Price Ridley had been gossiping about the vicar and the church money. And they thought that this would make her stop. The coincidence was that the call was made at exactly the same time as the pretend shot from the wood. So it seemed that the two must be connected.'</p>
+<p>'Your explanation is a very good one, Miss Marple,' Melchett said. 'But I don't believe you can prove any of it.'</p>
+<p>'I know,' said Miss Marple. 'But you do believe it is true, don't you?'</p>
+<p>'Yes, I do. But we need the proof!'</p>
+<p>Miss Marple coughed. 'That is why I thought perhaps-'</p>
+<p>'Yes?'</p>
+<p>'We might be allowed to set a little trap.'</p>
+<empty-line/><empty-line/>
+<p>CHAPTER THIRTY-ONE</p>
+<p>I looked at her, shocked. 'A trap? What kind of a trap?'</p>
+<p>'What if someone telephoned Mr Redding and warned him,' Miss Marple said. 'Suppose Dr Haydock mentioned that Mrs Sadler had seen him changing the pills in Mr Hawes' box - well, if Mr Redding is innocent, that would mean nothing to him. But if he isn't...'</p>
+<p>'He might do something stupid,' I said.</p>
+<p>'And prove he's guilty,' said Melchett. 'Yes, but would Haydock be willing to do that?'</p>
+<p>Miss Marple interrupted him excitedly. 'Oh, it was just a thought. But here is Dr Haydock, so we can ask him.'</p>
+<p>Haydock came into the room, looking very tired. 'I think Hawes is going to live. Although perhaps I wish that he wasn't.'</p>
+<p>'You may think differently,' said Melchett, 'when you have heard what we now know.' And he quickly told him about Miss Marple's explanation of the crime. And then he told him of her idea.</p>
+<p>Haydock's gentle opinions about criminals changed immediately. 'If this is true,' he said. 'I'll do anything you want. That poor fellow Hawes, he nearly died. And if he hadn't, he would have been found guilty of murder. Lawrence Redding deserves the heaviest punishment possible.' So he began to arrange the trap with Melchett. And I walked Miss Marple home.</p>
+<empty-line/><empty-line/>
+<p>CHAPTER THIRTY-TWO</p>
+<p>There is not much more to tell. Miss Marple's plan succeeded. Lawrence Redding was not an innocent man, and so the news that Mrs Sadler had seen him change Mr Hawes' pills did indeed make him do 'something stupid'.</p>
+<p>His first thought, I imagine, must have been to run away. But he could not leave without telling Anne. So he went up to Old Hall that night - and two of Colonel Melchett's policemen followed him. He threw small stones at Anne's window to wake her up and she came down to the garden to talk to him. So the two policemen heard the whole conversation. And it proved that Miss Marple had been right in every detail.</p>
+<p>Lawrence Redding and Anne Protheroe were accused of the murder and found guilty in court. Inspector Slack was praised for his energy and ability. Nothing at all was said about Miss Marple's part in solving the crime. And that was how she wanted it.</p>
+<p>Lettice came to see me just after they were arrested. She wandered into my study and told me that she had always been sure her stepmother was involved. Saying that she had lost her yellow hat had been an excuse to search my study. She hoped that she would find something the police had not. But when she had found nothing, she had dropped Anne's earring by the desk.</p>
+<p>'I knew she had done it, so what did it matter if that proved she had killed him?'</p>
+<p>There are some things that Lettice will never understand.</p>
+<p>'What are you going to do now?' I asked her.</p>
+<p>'When it's all over, I am going abroad. With my mother.'</p>
+<p>I looked up, surprised.</p>
+<p>'Didn't you guess? Mrs Lestrange is my mother. She is dying, and she wanted to see me, so she came down here using a different name. Dr Haydock helped her. He was in love with her once. I think he still is. Anyway, she went to see father and told him she was dying and wanted to see me so much. Father was an awful man. He said I thought she was dead!</p>
+<p>'But mother sent a note to me, and I arranged to leave the tennis party early and meet her near the vicarage at a quarter past six. We left each other before half-past six. But afterwards I was frightened that the police might think she had killed father. That was why I cut up that old picture of her. I was afraid the police might recognize it. Dr Haydock was frightened, too. Sometimes, I believe, he really thought she had done it!' She paused. 'It's strange. She and I belong to each other. Father and I didn't. But mother - well, I shall be with her till the end...' She got up and I held her hand. 'Some day, I hope, you will be happy. You deserve it, Lettice.'</p>
+<p>'Do I really?' she said, with a little laugh. 'I'm not sure about that. Goodbye, Mr Clement. You've been very kind to me always - you and Griselda.'</p>
+<p>Griselda!</p>
+<p>I needed to tell her how badly the anonymous letter had upset me. At first she laughed. And then she told me that I should have trusted her.</p>
+<p>'However,' she added, 'I'm going to be very serious and well behaved from now on.'</p>
+<p>I found it hard to imagine Griselda like that.</p>
+<p>She continued, 'You see, Len, I have something new coming into my life. It's coming into your life, too! And you can't call me a dear child any more when we have a real child of our own. I have also decided that since now I'm going to be a real "wife and mother" I must look after the house as well. So I have bought two books: one on House Management and one on Mother Love.'</p>
+<p>'You haven't bought a book on How to Treat a Husband, have you?' I asked, as I put my arms round her.</p>
+<p>'I don't need to,' said Griselda. 'I love you dearly. What more do you want?'</p>
+<p>'Nothing,' I said.</p>
+<p>'Could you say, just once, that you love me madly?'</p>
+<p>'Griselda,' I said, 'Not only that, but I worship you!'</p>
+<p>My wife was just about to kiss me when suddenly she pulled away.</p>
+<p>'Miss Marple's coming. Don't say a word to her about the baby. I don't want everyone telling me to lie down all the time. Tell her I've gone to play tennis. That will stop her thinking anything about babies.'</p>
+<p>Miss Marple came to the window, smiled, and asked for Griselda.</p>
+<p>'Griselda', I said, 'has gone to play tennis.'</p>
+<p>'Oh, but surely...' There was a worried expression in Miss Marple's eyes. 'That is not wise just now.' And then her face went pink.</p>
+<p>So we quickly started to talk about the Protheroe case, and of 'Dr Stone', who had turned out to be a well-known thief. Miss Cram, though, had been cleared of any crime. She had at last told the police that she had taken the suitcase to the woods, but had thought she was protecting Dr Stone's archaeological discoveries from his enemies.</p>
+<p>Then Miss Marple said, 'I hope dear Griselda is not doing too much. I was in the bookshop in Much Benham yesterday...'</p>
+<p>Poor Griselda - that book on Mother Love had given Miss Marple the clue!</p>
+<p>'I wonder,' I said, 'if you were to commit a murder whether you would ever be found out.'</p>
+<p>'What an awful idea,' said Miss Marple. 'And how naughty of you, Mr Clement.' She got up. 'But of course you are feeling very cheerful.' She paused by the window. 'My love to dear Griselda - and tell her - that any little secret is safe with me.' Really, Miss Marple is rather sweet...</p>
+<empty-line/>
+<p>- THE END -</p>
+<p>Hope you have enjoyed the reading!</p>
+<p>Come back to http://english-e-reader.net/ to find more fascinating and exciting stories!</p>
+</section>
+</body>
+<binary id="img_0" content-type="image/jpeg">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
+g7Q0otr9x39KIvRNH//Z</binary>
+</FictionBook>
